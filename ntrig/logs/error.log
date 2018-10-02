@@ -1,0 +1,2468 @@
+2016/06/18 11:50:25 [notice] 17367: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 11:50:25 [notice] 17367: using the "random" user's behaver method
+2016/06/18 11:50:25 [notice] 17367: ntrig/1.0
+2016/06/18 11:50:25 [notice] 17367: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 11:50:25 [notice] 17367: OS: Linux 3.13.0-55-generic
+2016/06/18 11:50:25 [notice] 17367: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 11:50:25 [notice] 17367: start virtual processes
+2016/06/18 11:50:25 [notice] 17367: start virtual processes 17372
+2016/06/18 11:50:25 [notice] 17367: start traffic processes
+2016/06/18 11:50:25 [notice] 17367: start traffic process 17373
+2016/06/18 11:50:34 [notice] 17372: signal 15 (SIG15) received, exiting
+2016/06/18 11:50:34 [notice] 17372: exiting
+2016/06/18 11:50:34 [notice] 17372: exit
+2016/06/18 11:50:33 [notice] 17373: signal 15 (SIG15) received, exiting
+2016/06/18 11:50:33 [notice] 17373: exiting
+2016/06/18 11:50:33 [notice] 17373: exit
+2016/06/18 11:53:26 [notice] 17426: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 11:53:26 [notice] 17426: using the "random" user's behaver method
+2016/06/18 11:53:26 [notice] 17426: ntrig/1.0
+2016/06/18 11:53:26 [notice] 17426: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 11:53:26 [notice] 17426: OS: Linux 3.13.0-55-generic
+2016/06/18 11:53:26 [notice] 17426: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 11:53:26 [notice] 17426: start virtual processes
+2016/06/18 11:53:26 [notice] 17426: start virtual processes 17431
+2016/06/18 11:53:26 [notice] 17426: start traffic processes
+2016/06/18 11:53:26 [notice] 17426: start traffic process 17432
+2016/06/18 11:53:46 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:46 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:46 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:46 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:46 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:46 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:49 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:49 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:49 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:49 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:52 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:52 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:53 [alert] 17431: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 11:53:53 [crit] 17431: failed to send a message to the (0) process.
+2016/06/18 11:53:55 [notice] 17431: signal 15 (SIG15) received, exiting
+2016/06/18 11:53:55 [notice] 17431: exiting
+2016/06/18 11:53:55 [notice] 17431: exit
+2016/06/18 11:53:59 [notice] 17432: signal 15 (SIG15) received, exiting
+2016/06/18 11:53:59 [notice] 17432: exiting
+2016/06/18 11:53:59 [notice] 17432: exit
+2016/06/18 11:59:13 [notice] 17558: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 11:59:13 [notice] 17558: using the "random" user's behaver method
+2016/06/18 11:59:13 [notice] 17558: ntrig/1.0
+2016/06/18 11:59:13 [notice] 17558: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 11:59:13 [notice] 17558: OS: Linux 3.13.0-55-generic
+2016/06/18 11:59:13 [notice] 17558: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 11:59:13 [notice] 17558: start virtual processes
+2016/06/18 11:59:13 [notice] 17558: start virtual processes 17563
+2016/06/18 11:59:13 [notice] 17558: start traffic processes
+2016/06/18 11:59:13 [notice] 17558: start traffic process 17564
+2016/06/18 11:59:13 [notice] 17558: signal 17 (SIGCHLD) received
+2016/06/18 11:59:13 [alert] 17558: traffic process 17564 exited on signal 11 (core dumped)
+2016/06/18 11:59:13 [notice] 17558: start traffic process 17569
+2016/06/18 11:59:28 [notice] 17569: signal 15 (SIG15) received, exiting
+2016/06/18 11:59:28 [notice] 17569: exiting
+2016/06/18 11:59:28 [notice] 17569: exit
+2016/06/18 11:59:24 [notice] 17558: signal 15 (SIG15) received, exiting
+2016/06/18 11:59:24 [notice] 17558: signal 17 (SIGCHLD) received
+2016/06/18 11:59:24 [notice] 17558: traffic process 17569 exited with code 0
+2016/06/18 11:59:24 [notice] 17563: signal 15 (SIG15) received, exiting
+2016/06/18 11:59:24 [notice] 17563: exiting
+2016/06/18 11:59:24 [notice] 17563: exit
+2016/06/18 11:59:29 [notice] 17558: signal 17 (SIGCHLD) received
+2016/06/18 11:59:29 [notice] 17558: virtual processes 17563 exited with code 0
+2016/06/18 11:59:29 [notice] 17558: exit
+2016/06/18 11:59:33 [notice] 17578: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 11:59:33 [notice] 17578: using the "random" user's behaver method
+2016/06/18 11:59:33 [notice] 17578: ntrig/1.0
+2016/06/18 11:59:33 [notice] 17578: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 11:59:33 [notice] 17578: OS: Linux 3.13.0-55-generic
+2016/06/18 11:59:33 [notice] 17578: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 11:59:33 [notice] 17578: start virtual processes
+2016/06/18 11:59:33 [notice] 17578: start virtual processes 17583
+2016/06/18 11:59:33 [notice] 17578: start traffic processes
+2016/06/18 11:59:33 [notice] 17578: start traffic process 17584
+2016/06/18 11:59:38 [notice] 17583: signal 15 (SIG15) received, exiting
+2016/06/18 11:59:38 [notice] 17583: exiting
+2016/06/18 11:59:38 [notice] 17583: exit
+2016/06/18 11:59:40 [notice] 17584: signal 15 (SIG15) received, exiting
+2016/06/18 11:59:40 [notice] 17584: exiting
+2016/06/18 11:59:40 [notice] 17584: exit
+2016/06/18 12:13:41 [notice] 17771: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:13:41 [notice] 17771: using the "random" user's behaver method
+2016/06/18 12:13:41 [notice] 17771: ntrig/1.0
+2016/06/18 12:13:41 [notice] 17771: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:13:41 [notice] 17771: OS: Linux 3.13.0-55-generic
+2016/06/18 12:13:41 [notice] 17771: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:13:41 [notice] 17771: start virtual processes
+2016/06/18 12:13:41 [notice] 17771: start virtual processes 17773
+2016/06/18 12:13:41 [notice] 17771: start traffic processes
+2016/06/18 12:13:41 [notice] 17771: start traffic process 17774
+2016/06/18 12:13:47 [notice] 17773: signal 15 (SIG15) received, exiting
+2016/06/18 12:13:47 [notice] 17773: exiting
+2016/06/18 12:13:47 [notice] 17773: exit
+2016/06/18 12:13:46 [notice] 17771: signal 15 (SIG15) received, exiting
+2016/06/18 12:13:49 [notice] 17774: exiting
+2016/06/18 12:13:49 [notice] 17774: exit
+2016/06/18 12:13:49 [notice] 17771: signal 17 (SIGCHLD) received
+2016/06/18 12:13:49 [notice] 17771: virtual processes 17773 exited with code 0
+2016/06/18 12:13:49 [notice] 17771: signal 17 (SIGCHLD) received
+2016/06/18 12:13:49 [notice] 17771: traffic process 17774 exited with code 0
+2016/06/18 12:13:49 [notice] 17771: exit
+2016/06/18 12:16:44 [notice] 17835: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:16:44 [notice] 17835: using the "random" user's behaver method
+2016/06/18 12:16:44 [notice] 17835: ntrig/1.0
+2016/06/18 12:16:44 [notice] 17835: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:16:44 [notice] 17835: OS: Linux 3.13.0-55-generic
+2016/06/18 12:16:44 [notice] 17835: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:16:44 [notice] 17835: start virtual processes
+2016/06/18 12:16:44 [notice] 17835: start virtual processes 17840
+2016/06/18 12:16:44 [notice] 17835: start traffic processes
+2016/06/18 12:16:44 [notice] 17835: start traffic process 17841
+2016/06/18 12:16:58 [notice] 17840: signal 15 (SIG15) received, exiting
+2016/06/18 12:16:58 [notice] 17840: exiting
+2016/06/18 12:16:58 [notice] 17840: exit
+2016/06/18 12:16:46 [notice] 17835: signal 15 (SIG15) received, exiting
+2016/06/18 12:16:59 [notice] 17835: signal 17 (SIGCHLD) received
+2016/06/18 12:16:59 [notice] 17835: virtual processes 17840 exited with code 0
+2016/06/18 12:16:58 [notice] 17841: signal 15 (SIG15) received, exiting
+2016/06/18 12:16:58 [notice] 17841: exiting
+2016/06/18 12:16:58 [notice] 17841: exit
+2016/06/18 12:16:59 [notice] 17835: signal 17 (SIGCHLD) received
+2016/06/18 12:16:59 [notice] 17835: traffic process 17841 exited with code 0
+2016/06/18 12:16:59 [notice] 17835: exit
+2016/06/18 12:18:12 [notice] 17901: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:18:12 [notice] 17901: using the "random" user's behaver method
+2016/06/18 12:18:12 [notice] 17901: ntrig/1.0
+2016/06/18 12:18:12 [notice] 17901: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:18:12 [notice] 17901: OS: Linux 3.13.0-55-generic
+2016/06/18 12:18:12 [notice] 17901: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:18:12 [notice] 17901: start virtual processes
+2016/06/18 12:18:12 [notice] 17901: start virtual processes 17904
+2016/06/18 12:18:12 [notice] 17901: start traffic processes
+2016/06/18 12:18:12 [notice] 17901: start traffic process 17905
+2016/06/18 12:18:16 [notice] 17901: signal 15 (SIG15) received, exiting
+2016/06/18 12:18:20 [notice] 17905: signal 15 (SIG15) received, exiting
+2016/06/18 12:18:20 [notice] 17905: exiting
+2016/06/18 12:18:20 [notice] 17905: exit
+2016/06/18 12:18:17 [notice] 17904: signal 15 (SIG15) received, exiting
+2016/06/18 12:18:17 [notice] 17904: exiting
+2016/06/18 12:18:17 [notice] 17904: exit
+2016/06/18 12:18:21 [notice] 17901: signal 17 (SIGCHLD) received
+2016/06/18 12:18:21 [notice] 17901: virtual processes 17904 exited with code 0
+2016/06/18 12:18:21 [notice] 17901: traffic process 17905 exited with code 0
+2016/06/18 12:18:21 [notice] 17901: exit
+2016/06/18 12:30:06 [notice] 18223: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:30:06 [notice] 18223: using the "random" user's behaver method
+2016/06/18 12:30:06 [notice] 18223: ntrig/1.0
+2016/06/18 12:30:06 [notice] 18223: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:30:06 [notice] 18223: OS: Linux 3.13.0-55-generic
+2016/06/18 12:30:06 [notice] 18223: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:30:06 [notice] 18223: start virtual processes
+2016/06/18 12:30:06 [notice] 18223: start virtual processes 18226
+2016/06/18 12:30:06 [notice] 18223: start traffic processes
+2016/06/18 12:30:06 [notice] 18223: start traffic process 18227
+2016/06/18 12:30:22 [notice] 18226: signal 15 (SIG15) received, exiting
+2016/06/18 12:30:22 [notice] 18226: exiting
+2016/06/18 12:30:22 [notice] 18226: exit
+2016/06/18 12:30:09 [notice] 18223: signal 15 (SIG15) received, exiting
+2016/06/18 12:30:23 [notice] 18223: signal 17 (SIGCHLD) received
+2016/06/18 12:30:23 [notice] 18223: virtual processes 18226 exited with code 0
+2016/06/18 12:30:22 [notice] 18227: signal 15 (SIG15) received, exiting
+2016/06/18 12:30:22 [notice] 18227: exiting
+2016/06/18 12:30:22 [notice] 18227: exit
+2016/06/18 12:30:23 [notice] 18223: signal 17 (SIGCHLD) received
+2016/06/18 12:30:23 [notice] 18223: traffic process 18227 exited with code 0
+2016/06/18 12:30:23 [notice] 18223: exit
+2016/06/18 12:38:46 [notice] 18349: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:38:46 [notice] 18349: using the "random" user's behaver method
+2016/06/18 12:38:46 [notice] 18349: ntrig/1.0
+2016/06/18 12:38:46 [notice] 18349: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:38:46 [notice] 18349: OS: Linux 3.13.0-55-generic
+2016/06/18 12:38:46 [notice] 18349: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:38:46 [notice] 18349: start virtual processes
+2016/06/18 12:38:46 [notice] 18349: start virtual processes 18353
+2016/06/18 12:38:46 [notice] 18349: start traffic processes
+2016/06/18 12:38:46 [notice] 18349: start traffic process 18354
+2016/06/18 12:38:59 [notice] 18353: signal 15 (SIG15) received, exiting
+2016/06/18 12:38:59 [notice] 18353: exiting
+2016/06/18 12:38:59 [notice] 18353: exit
+2016/06/18 12:38:50 [notice] 18349: signal 15 (SIG15) received, exiting
+2016/06/18 12:39:01 [notice] 18349: signal 17 (SIGCHLD) received
+2016/06/18 12:39:01 [notice] 18349: virtual processes 18353 exited with code 0
+2016/06/18 12:39:00 [notice] 18354: signal 15 (SIG15) received, exiting
+2016/06/18 12:39:00 [notice] 18354: exiting
+2016/06/18 12:39:00 [notice] 18354: exit
+2016/06/18 12:39:01 [notice] 18349: signal 17 (SIGCHLD) received
+2016/06/18 12:39:01 [notice] 18349: traffic process 18354 exited with code 0
+2016/06/18 12:39:01 [notice] 18349: exit
+2016/06/18 12:40:49 [notice] 18419: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:40:49 [notice] 18419: using the "random" user's behaver method
+2016/06/18 12:40:49 [notice] 18419: ntrig/1.0
+2016/06/18 12:40:49 [notice] 18419: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:40:49 [notice] 18419: OS: Linux 3.13.0-55-generic
+2016/06/18 12:40:49 [notice] 18419: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:40:49 [notice] 18419: start virtual processes
+2016/06/18 12:40:49 [notice] 18419: start virtual processes 18424
+2016/06/18 12:40:49 [notice] 18419: start traffic processes
+2016/06/18 12:40:49 [notice] 18419: start traffic process 18425
+2016/06/18 12:41:09 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:09 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:09 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:09 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:10 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:10 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:17 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:17 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:19 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:19 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:21 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:21 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:21 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:21 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:21 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:21 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:21 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:21 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:22 [alert] 18424: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 12:41:22 [crit] 18424: failed to send a message to the (0) process.
+2016/06/18 12:41:24 [notice] 18424: signal 15 (SIG15) received, exiting
+2016/06/18 12:41:24 [notice] 18424: exiting
+2016/06/18 12:41:24 [notice] 18424: exit
+2016/06/18 12:41:23 [notice] 18425: signal 15 (SIG15) received, exiting
+2016/06/18 12:41:23 [notice] 18425: exiting
+2016/06/18 12:40:51 [notice] 18419: signal 15 (SIG15) received, exiting
+2016/06/18 12:40:51 [notice] 18419: signal 17 (SIGCHLD) received
+2016/06/18 12:40:51 [notice] 18419: virtual processes 18424 exited with code 0
+2016/06/18 12:41:23 [notice] 18425: exit
+2016/06/18 12:41:24 [notice] 18419: signal 17 (SIGCHLD) received
+2016/06/18 12:41:24 [notice] 18419: traffic process 18425 exited with code 0
+2016/06/18 12:41:24 [notice] 18419: exit
+2016/06/18 12:42:00 [notice] 18471: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:42:00 [notice] 18471: using the "random" user's behaver method
+2016/06/18 12:42:00 [notice] 18471: ntrig/1.0
+2016/06/18 12:42:00 [notice] 18471: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:42:00 [notice] 18471: OS: Linux 3.13.0-55-generic
+2016/06/18 12:42:00 [notice] 18471: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:42:00 [notice] 18471: start virtual processes
+2016/06/18 12:42:00 [notice] 18471: start virtual processes 18476
+2016/06/18 12:42:00 [notice] 18471: start traffic processes
+2016/06/18 12:42:00 [notice] 18471: start traffic process 18477
+2016/06/18 12:42:00 [notice] 18471: signal 17 (SIGCHLD) received
+2016/06/18 12:42:00 [alert] 18471: traffic process 18477 exited on signal 11 (core dumped)
+2016/06/18 12:42:00 [notice] 18471: start traffic process 18482
+2016/06/18 12:42:13 [notice] 18482: signal 15 (SIG15) received, exiting
+2016/06/18 12:42:13 [notice] 18482: exiting
+2016/06/18 12:42:03 [notice] 18471: signal 15 (SIG15) received, exiting
+2016/06/18 12:42:03 [notice] 18476: exiting
+2016/06/18 12:42:03 [notice] 18476: exit
+2016/06/18 12:42:13 [notice] 18482: exit
+2016/06/18 12:42:14 [notice] 18471: signal 17 (SIGCHLD) received
+2016/06/18 12:42:14 [notice] 18471: virtual processes 18476 exited with code 0
+2016/06/18 12:42:14 [notice] 18471: signal 17 (SIGCHLD) received
+2016/06/18 12:42:14 [notice] 18471: traffic process 18482 exited with code 0
+2016/06/18 12:42:14 [notice] 18471: exit
+2016/06/18 12:42:19 [notice] 18490: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:42:19 [notice] 18490: using the "random" user's behaver method
+2016/06/18 12:42:19 [notice] 18490: ntrig/1.0
+2016/06/18 12:42:19 [notice] 18490: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:42:19 [notice] 18490: OS: Linux 3.13.0-55-generic
+2016/06/18 12:42:19 [notice] 18490: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:42:19 [notice] 18490: start virtual processes
+2016/06/18 12:42:19 [notice] 18490: start virtual processes 18495
+2016/06/18 12:42:19 [notice] 18490: start traffic processes
+2016/06/18 12:42:19 [notice] 18490: start traffic process 18496
+2016/06/18 12:42:28 [notice] 18496: signal 15 (SIG15) received, exiting
+2016/06/18 12:42:28 [notice] 18496: exiting
+2016/06/18 12:42:28 [notice] 18496: exit
+2016/06/18 12:42:23 [notice] 18490: signal 15 (SIG15) received, exiting
+2016/06/18 12:42:23 [notice] 18490: signal 17 (SIGCHLD) received
+2016/06/18 12:42:23 [notice] 18490: traffic process 18496 exited with code 0
+2016/06/18 12:42:27 [notice] 18495: signal 15 (SIG15) received, exiting
+2016/06/18 12:42:27 [notice] 18495: exiting
+2016/06/18 12:42:27 [notice] 18495: exit
+2016/06/18 12:42:28 [notice] 18490: signal 17 (SIGCHLD) received
+2016/06/18 12:42:28 [notice] 18490: virtual processes 18495 exited with code 0
+2016/06/18 12:42:28 [notice] 18490: exit
+2016/06/18 12:44:29 [notice] 18557: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:44:29 [notice] 18557: using the "random" user's behaver method
+2016/06/18 12:44:29 [notice] 18557: ntrig/1.0
+2016/06/18 12:44:29 [notice] 18557: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:44:29 [notice] 18557: OS: Linux 3.13.0-55-generic
+2016/06/18 12:44:29 [notice] 18557: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:44:29 [notice] 18557: start virtual processes
+2016/06/18 12:44:29 [notice] 18557: start virtual processes 18561
+2016/06/18 12:44:29 [notice] 18557: start traffic processes
+2016/06/18 12:44:29 [notice] 18557: start traffic process 18562
+2016/06/18 12:44:34 [notice] 18561: signal 15 (SIG15) received, exiting
+2016/06/18 12:44:34 [notice] 18561: exiting
+2016/06/18 12:44:34 [notice] 18561: exit
+2016/06/18 12:44:32 [notice] 18557: signal 15 (SIG15) received, exiting
+2016/06/18 12:44:35 [notice] 18557: signal 17 (SIGCHLD) received
+2016/06/18 12:44:35 [notice] 18557: virtual processes 18561 exited with code 0
+2016/06/18 12:44:35 [notice] 18562: exiting
+2016/06/18 12:44:35 [notice] 18562: exit
+2016/06/18 12:44:35 [notice] 18557: signal 17 (SIGCHLD) received
+2016/06/18 12:44:35 [notice] 18557: traffic process 18562 exited with code 0
+2016/06/18 12:44:35 [notice] 18557: exit
+2016/06/18 12:47:37 [notice] 18630: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:47:37 [notice] 18630: using the "random" user's behaver method
+2016/06/18 12:47:37 [notice] 18630: ntrig/1.0
+2016/06/18 12:47:37 [notice] 18630: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:47:37 [notice] 18630: OS: Linux 3.13.0-55-generic
+2016/06/18 12:47:37 [notice] 18630: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:47:37 [notice] 18630: start virtual processes
+2016/06/18 12:47:37 [notice] 18630: start virtual processes 18635
+2016/06/18 12:47:37 [notice] 18630: start traffic processes
+2016/06/18 12:47:37 [notice] 18630: start traffic process 18636
+2016/06/18 12:47:41 [notice] 18630: signal 15 (SIG15) received, exiting
+2016/06/18 12:47:45 [notice] 18636: signal 15 (SIG15) received, exiting
+2016/06/18 12:47:45 [notice] 18636: exiting
+2016/06/18 12:47:45 [notice] 18636: exit
+2016/06/18 12:47:45 [notice] 18630: signal 17 (SIGCHLD) received
+2016/06/18 12:47:45 [notice] 18630: traffic process 18636 exited with code 0
+2016/06/18 12:47:43 [notice] 18635: signal 15 (SIG15) received, exiting
+2016/06/18 12:47:43 [notice] 18635: exiting
+2016/06/18 12:47:43 [notice] 18635: exit
+2016/06/18 12:47:45 [notice] 18630: signal 17 (SIGCHLD) received
+2016/06/18 12:47:45 [notice] 18630: virtual processes 18635 exited with code 0
+2016/06/18 12:47:45 [notice] 18630: exit
+2016/06/18 12:54:25 [notice] 18796: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:54:25 [notice] 18796: using the "random" user's behaver method
+2016/06/18 12:54:25 [notice] 18796: ntrig/1.0
+2016/06/18 12:54:25 [notice] 18796: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:54:25 [notice] 18796: OS: Linux 3.13.0-55-generic
+2016/06/18 12:54:25 [notice] 18796: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:54:25 [notice] 18796: start virtual processes
+2016/06/18 12:54:25 [notice] 18796: start virtual processes 18799
+2016/06/18 12:54:25 [notice] 18796: start traffic processes
+2016/06/18 12:54:25 [notice] 18796: start traffic process 18800
+2016/06/18 12:54:25 [notice] 18796: signal 17 (SIGCHLD) received
+2016/06/18 12:54:25 [alert] 18796: traffic process 18800 exited on signal 11 (core dumped)
+2016/06/18 12:54:25 [notice] 18796: start traffic process 18806
+2016/06/18 12:54:33 [notice] 18806: signal 15 (SIG15) received, exiting
+2016/06/18 12:54:33 [notice] 18806: exiting
+2016/06/18 12:54:33 [notice] 18806: exit
+2016/06/18 12:54:28 [notice] 18796: signal 15 (SIG15) received, exiting
+2016/06/18 12:54:28 [notice] 18796: signal 17 (SIGCHLD) received
+2016/06/18 12:54:28 [notice] 18796: traffic process 18806 exited with code 0
+2016/06/18 12:54:28 [notice] 18799: signal 15 (SIG15) received, exiting
+2016/06/18 12:54:28 [notice] 18799: exiting
+2016/06/18 12:54:28 [notice] 18799: exit
+2016/06/18 12:54:33 [notice] 18796: signal 17 (SIGCHLD) received
+2016/06/18 12:54:33 [notice] 18796: virtual processes 18799 exited with code 0
+2016/06/18 12:54:33 [notice] 18796: exit
+2016/06/18 12:54:37 [notice] 18815: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:54:37 [notice] 18815: using the "random" user's behaver method
+2016/06/18 12:54:37 [notice] 18815: ntrig/1.0
+2016/06/18 12:54:37 [notice] 18815: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:54:37 [notice] 18815: OS: Linux 3.13.0-55-generic
+2016/06/18 12:54:37 [notice] 18815: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:54:37 [notice] 18815: start virtual processes
+2016/06/18 12:54:37 [notice] 18815: start virtual processes 18820
+2016/06/18 12:54:37 [notice] 18815: start traffic processes
+2016/06/18 12:54:37 [notice] 18815: start traffic process 18821
+2016/06/18 12:54:43 [notice] 18820: signal 15 (SIG15) received, exiting
+2016/06/18 12:54:43 [notice] 18820: exiting
+2016/06/18 12:54:43 [notice] 18820: exit
+2016/06/18 12:54:42 [notice] 18821: signal 15 (SIG15) received, exiting
+2016/06/18 12:54:42 [notice] 18821: exiting
+2016/06/18 12:54:42 [notice] 18821: exit
+2016/06/18 12:55:21 [notice] 18840: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:55:21 [notice] 18840: using the "random" user's behaver method
+2016/06/18 12:55:21 [notice] 18840: ntrig/1.0
+2016/06/18 12:55:21 [notice] 18840: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:55:21 [notice] 18840: OS: Linux 3.13.0-55-generic
+2016/06/18 12:55:21 [notice] 18840: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:55:21 [notice] 18840: start virtual processes
+2016/06/18 12:55:21 [notice] 18840: start virtual processes 18843
+2016/06/18 12:55:21 [notice] 18840: start traffic processes
+2016/06/18 12:55:21 [notice] 18840: start traffic process 18844
+2016/06/18 12:55:28 [notice] 18844: signal 15 (SIG15) received, exiting
+2016/06/18 12:55:28 [notice] 18844: exiting
+2016/06/18 12:55:28 [notice] 18844: exit
+2016/06/18 12:55:26 [notice] 18843: signal 15 (SIG15) received, exiting
+2016/06/18 12:55:26 [notice] 18843: exiting
+2016/06/18 12:55:26 [notice] 18843: exit
+2016/06/18 12:57:48 [notice] 18909: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:57:48 [notice] 18909: using the "random" user's behaver method
+2016/06/18 12:57:48 [notice] 18909: ntrig/1.0
+2016/06/18 12:57:48 [notice] 18909: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:57:48 [notice] 18909: OS: Linux 3.13.0-55-generic
+2016/06/18 12:57:48 [notice] 18909: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:57:48 [notice] 18909: start virtual processes
+2016/06/18 12:57:48 [notice] 18909: start virtual processes 18914
+2016/06/18 12:57:48 [notice] 18909: start traffic processes
+2016/06/18 12:57:48 [notice] 18909: start traffic process 18915
+2016/06/18 12:57:48 [notice] 18909: signal 17 (SIGCHLD) received
+2016/06/18 12:57:48 [alert] 18909: traffic process 18915 exited on signal 11 (core dumped)
+2016/06/18 12:57:48 [notice] 18909: start traffic process 18919
+2016/06/18 12:57:54 [notice] 18919: signal 15 (SIG15) received, exiting
+2016/06/18 12:57:54 [notice] 18919: exiting
+2016/06/18 12:57:54 [notice] 18919: exit
+2016/06/18 12:57:51 [notice] 18909: signal 15 (SIG15) received, exiting
+2016/06/18 12:57:51 [notice] 18909: signal 17 (SIGCHLD) received
+2016/06/18 12:57:51 [notice] 18909: traffic process 18919 exited with code 0
+2016/06/18 12:57:51 [notice] 18914: signal 15 (SIG15) received, exiting
+2016/06/18 12:57:51 [notice] 18914: exiting
+2016/06/18 12:57:51 [notice] 18914: exit
+2016/06/18 12:57:55 [notice] 18909: signal 17 (SIGCHLD) received
+2016/06/18 12:57:55 [notice] 18909: virtual processes 18914 exited with code 0
+2016/06/18 12:57:55 [notice] 18909: exit
+2016/06/18 12:58:07 [notice] 18929: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 12:58:07 [notice] 18929: using the "random" user's behaver method
+2016/06/18 12:58:07 [notice] 18929: ntrig/1.0
+2016/06/18 12:58:07 [notice] 18929: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 12:58:07 [notice] 18929: OS: Linux 3.13.0-55-generic
+2016/06/18 12:58:07 [notice] 18929: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 12:58:07 [notice] 18929: start virtual processes
+2016/06/18 12:58:07 [notice] 18929: start virtual processes 18934
+2016/06/18 12:58:07 [notice] 18929: start traffic processes
+2016/06/18 12:58:07 [notice] 18929: start traffic process 18935
+2016/06/18 12:58:07 [notice] 18929: signal 17 (SIGCHLD) received
+2016/06/18 12:58:07 [alert] 18929: traffic process 18935 exited on signal 11 (core dumped)
+2016/06/18 12:58:07 [notice] 18929: start traffic process 18939
+2016/06/18 12:58:12 [notice] 18929: signal 15 (SIG15) received, exiting
+2016/06/18 12:58:14 [notice] 18939: exiting
+2016/06/18 12:58:14 [notice] 18939: exit
+2016/06/18 12:58:12 [notice] 18934: exiting
+2016/06/18 12:58:12 [notice] 18934: exit
+2016/06/18 12:58:14 [notice] 18929: signal 17 (SIGCHLD) received
+2016/06/18 12:58:14 [notice] 18929: virtual processes 18934 exited with code 0
+2016/06/18 12:58:14 [notice] 18929: traffic process 18939 exited with code 0
+2016/06/18 12:58:14 [notice] 18929: exit
+2016/06/18 13:00:19 [notice] 19429: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:00:19 [notice] 19429: using the "random" user's behaver method
+2016/06/18 13:00:19 [notice] 19429: ntrig/1.0
+2016/06/18 13:00:19 [notice] 19429: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:00:19 [notice] 19429: OS: Linux 3.13.0-55-generic
+2016/06/18 13:00:19 [notice] 19429: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:00:19 [notice] 19429: start virtual processes
+2016/06/18 13:00:19 [notice] 19429: start virtual processes 19430
+2016/06/18 13:00:19 [notice] 19429: start traffic processes
+2016/06/18 13:00:19 [notice] 19429: start traffic process 19431
+2016/06/18 13:00:19 [notice] 19429: signal 17 (SIGCHLD) received
+2016/06/18 13:00:19 [alert] 19429: traffic process 19431 exited on signal 11 (core dumped)
+2016/06/18 13:00:19 [notice] 19429: start traffic process 19440
+2016/06/18 13:00:22 [notice] 19430: signal 15 (SIG15) received, exiting
+2016/06/18 13:00:22 [notice] 19430: exiting
+2016/06/18 13:00:22 [notice] 19430: exit
+2016/06/18 13:00:24 [notice] 19440: signal 15 (SIG15) received, exiting
+2016/06/18 13:00:24 [notice] 19440: exiting
+2016/06/18 13:00:22 [notice] 19429: signal 15 (SIG15) received, exiting
+2016/06/18 13:00:24 [notice] 19440: exit
+2016/06/18 13:00:25 [notice] 19429: signal 17 (SIGCHLD) received
+2016/06/18 13:00:25 [notice] 19429: virtual processes 19430 exited with code 0
+2016/06/18 13:00:25 [notice] 19429: traffic process 19440 exited with code 0
+2016/06/18 13:00:25 [notice] 19429: signal 17 (SIGCHLD) received
+2016/06/18 13:00:25 [notice] 19429: exit
+2016/06/18 13:09:29 [notice] 19607: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:09:29 [notice] 19607: using the "random" user's behaver method
+2016/06/18 13:09:29 [notice] 19607: ntrig/1.0
+2016/06/18 13:09:29 [notice] 19607: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:09:29 [notice] 19607: OS: Linux 3.13.0-55-generic
+2016/06/18 13:09:29 [notice] 19607: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:09:29 [notice] 19607: start virtual processes
+2016/06/18 13:09:29 [notice] 19607: start virtual processes 19608
+2016/06/18 13:09:29 [notice] 19607: start traffic processes
+2016/06/18 13:09:29 [notice] 19607: start traffic process 19609
+2016/06/18 13:09:41 [notice] 19607: signal 15 (SIG15) received, exiting
+2016/06/18 13:09:47 [notice] 19609: signal 15 (SIG15) received, exiting
+2016/06/18 13:09:47 [notice] 19609: exiting
+2016/06/18 13:09:47 [notice] 19609: exit
+2016/06/18 13:09:47 [notice] 19608: signal 15 (SIG15) received, exiting
+2016/06/18 13:09:47 [notice] 19608: exiting
+2016/06/18 13:09:47 [notice] 19608: exit
+2016/06/18 13:09:47 [notice] 19607: signal 17 (SIGCHLD) received
+2016/06/18 13:09:47 [notice] 19607: virtual processes 19608 exited with code 0
+2016/06/18 13:09:47 [notice] 19607: signal 17 (SIGCHLD) received
+2016/06/18 13:09:47 [notice] 19607: traffic process 19609 exited with code 0
+2016/06/18 13:09:47 [notice] 19607: exit
+2016/06/18 13:10:20 [notice] 19647: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:10:20 [notice] 19647: using the "random" user's behaver method
+2016/06/18 13:10:20 [notice] 19647: ntrig/1.0
+2016/06/18 13:10:20 [notice] 19647: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:10:20 [notice] 19647: OS: Linux 3.13.0-55-generic
+2016/06/18 13:10:20 [notice] 19647: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:10:20 [notice] 19647: start virtual processes
+2016/06/18 13:10:20 [notice] 19647: start virtual processes 19652
+2016/06/18 13:10:20 [notice] 19647: start traffic processes
+2016/06/18 13:10:20 [notice] 19647: start traffic process 19653
+2016/06/18 13:10:24 [notice] 19647: signal 15 (SIG15) received, exiting
+2016/06/18 13:10:30 [notice] 19652: signal 15 (SIG15) received, exiting
+2016/06/18 13:10:30 [notice] 19652: exiting
+2016/06/18 13:10:30 [notice] 19652: exit
+2016/06/18 13:10:31 [notice] 19647: signal 17 (SIGCHLD) received
+2016/06/18 13:10:31 [notice] 19647: virtual processes 19652 exited with code 0
+2016/06/18 13:10:31 [notice] 19653: exiting
+2016/06/18 13:10:31 [notice] 19653: exit
+2016/06/18 13:10:31 [notice] 19647: signal 17 (SIGCHLD) received
+2016/06/18 13:10:31 [notice] 19647: traffic process 19653 exited with code 0
+2016/06/18 13:10:31 [notice] 19647: exit
+2016/06/18 13:14:52 [notice] 19794: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:14:52 [notice] 19794: using the "random" user's behaver method
+2016/06/18 13:14:52 [notice] 19794: ntrig/1.0
+2016/06/18 13:14:52 [notice] 19794: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:14:52 [notice] 19794: OS: Linux 3.13.0-55-generic
+2016/06/18 13:14:52 [notice] 19794: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:14:52 [notice] 19794: start virtual processes
+2016/06/18 13:14:52 [notice] 19794: start virtual processes 19799
+2016/06/18 13:14:52 [notice] 19794: start traffic processes
+2016/06/18 13:14:52 [notice] 19794: start traffic process 19800
+2016/06/18 13:15:00 [notice] 19799: signal 15 (SIG15) received, exiting
+2016/06/18 13:15:00 [notice] 19799: exiting
+2016/06/18 13:15:00 [notice] 19799: exit
+2016/06/18 13:15:00 [notice] 19800: signal 15 (SIG15) received, exiting
+2016/06/18 13:15:00 [notice] 19800: exiting
+2016/06/18 13:14:55 [notice] 19794: signal 15 (SIG15) received, exiting
+2016/06/18 13:14:55 [notice] 19794: signal 17 (SIGCHLD) received
+2016/06/18 13:14:55 [notice] 19794: virtual processes 19799 exited with code 0
+2016/06/18 13:15:00 [notice] 19800: exit
+2016/06/18 13:15:00 [notice] 19794: signal 17 (SIGCHLD) received
+2016/06/18 13:15:00 [notice] 19794: traffic process 19800 exited with code 0
+2016/06/18 13:15:00 [notice] 19794: exit
+2016/06/18 13:15:37 [notice] 19835: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:15:37 [notice] 19835: using the "random" user's behaver method
+2016/06/18 13:15:37 [notice] 19835: ntrig/1.0
+2016/06/18 13:15:37 [notice] 19835: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:15:37 [notice] 19835: OS: Linux 3.13.0-55-generic
+2016/06/18 13:15:37 [notice] 19835: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:15:37 [notice] 19835: start virtual processes
+2016/06/18 13:15:37 [notice] 19835: start virtual processes 19840
+2016/06/18 13:15:37 [notice] 19835: start traffic processes
+2016/06/18 13:15:37 [notice] 19835: start traffic process 19841
+2016/06/18 13:15:37 [notice] 19835: signal 17 (SIGCHLD) received
+2016/06/18 13:15:37 [alert] 19835: traffic process 19841 exited on signal 11 (core dumped)
+2016/06/18 13:15:37 [notice] 19835: start traffic process 19845
+2016/06/18 13:15:39 [notice] 19840: signal 15 (SIG15) received, exiting
+2016/06/18 13:15:39 [notice] 19840: exiting
+2016/06/18 13:15:39 [notice] 19840: exit
+2016/06/18 13:15:39 [notice] 19835: signal 15 (SIG15) received, exiting
+2016/06/18 13:15:43 [notice] 19845: signal 15 (SIG15) received, exiting
+2016/06/18 13:15:43 [notice] 19845: exiting
+2016/06/18 13:15:43 [notice] 19845: exit
+2016/06/18 13:15:43 [notice] 19835: signal 17 (SIGCHLD) received
+2016/06/18 13:15:43 [notice] 19835: virtual processes 19840 exited with code 0
+2016/06/18 13:15:43 [notice] 19835: signal 17 (SIGCHLD) received
+2016/06/18 13:15:43 [notice] 19835: traffic process 19845 exited with code 0
+2016/06/18 13:15:43 [notice] 19835: exit
+2016/06/18 13:15:56 [notice] 19863: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:15:56 [notice] 19863: using the "random" user's behaver method
+2016/06/18 13:15:56 [notice] 19863: ntrig/1.0
+2016/06/18 13:15:56 [notice] 19863: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:15:56 [notice] 19863: OS: Linux 3.13.0-55-generic
+2016/06/18 13:15:56 [notice] 19863: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:15:56 [notice] 19863: start virtual processes
+2016/06/18 13:15:56 [notice] 19863: start virtual processes 19868
+2016/06/18 13:15:56 [notice] 19863: start traffic processes
+2016/06/18 13:15:56 [notice] 19863: start traffic process 19869
+2016/06/18 13:15:58 [notice] 19868: signal 15 (SIG15) received, exiting
+2016/06/18 13:15:58 [notice] 19868: exiting
+2016/06/18 13:15:58 [notice] 19868: exit
+2016/06/18 13:15:58 [notice] 19863: signal 15 (SIG15) received, exiting
+2016/06/18 13:16:01 [notice] 19863: signal 17 (SIGCHLD) received
+2016/06/18 13:16:01 [notice] 19863: virtual processes 19868 exited with code 0
+2016/06/18 13:16:01 [notice] 19869: signal 15 (SIG15) received, exiting
+2016/06/18 13:16:01 [notice] 19869: exiting
+2016/06/18 13:16:01 [notice] 19869: exit
+2016/06/18 13:16:01 [notice] 19863: signal 17 (SIGCHLD) received
+2016/06/18 13:16:01 [notice] 19863: traffic process 19869 exited with code 0
+2016/06/18 13:16:01 [notice] 19863: exit
+2016/06/18 13:18:18 [notice] 19949: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:18:18 [notice] 19949: using the "random" user's behaver method
+2016/06/18 13:18:18 [notice] 19949: ntrig/1.0
+2016/06/18 13:18:18 [notice] 19949: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:18:18 [notice] 19949: OS: Linux 3.13.0-55-generic
+2016/06/18 13:18:18 [notice] 19949: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:18:18 [notice] 19949: start virtual processes
+2016/06/18 13:18:18 [notice] 19949: start virtual processes 19954
+2016/06/18 13:18:18 [notice] 19949: start traffic processes
+2016/06/18 13:18:18 [notice] 19949: start traffic process 19955
+2016/06/18 13:18:18 [notice] 19949: signal 17 (SIGCHLD) received
+2016/06/18 13:18:18 [alert] 19949: traffic process 19955 exited on signal 11 (core dumped)
+2016/06/18 13:18:18 [notice] 19949: start traffic process 19959
+2016/06/18 13:18:21 [notice] 19949: signal 15 (SIG15) received, exiting
+2016/06/18 13:18:21 [notice] 19954: signal 15 (SIG15) received, exiting
+2016/06/18 13:18:21 [notice] 19954: exiting
+2016/06/18 13:18:21 [notice] 19954: exit
+2016/06/18 13:18:24 [notice] 19959: signal 15 (SIG15) received, exiting
+2016/06/18 13:18:24 [notice] 19959: exiting
+2016/06/18 13:18:24 [notice] 19959: exit
+2016/06/18 13:18:24 [notice] 19949: signal 17 (SIGCHLD) received
+2016/06/18 13:18:24 [notice] 19949: traffic process 19959 exited with code 0
+2016/06/18 13:18:24 [notice] 19949: signal 17 (SIGCHLD) received
+2016/06/18 13:18:24 [notice] 19949: virtual processes 19954 exited with code 0
+2016/06/18 13:18:24 [notice] 19949: exit
+2016/06/18 13:18:39 [notice] 19970: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:18:39 [notice] 19970: using the "random" user's behaver method
+2016/06/18 13:18:39 [notice] 19970: ntrig/1.0
+2016/06/18 13:18:39 [notice] 19970: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:18:39 [notice] 19970: OS: Linux 3.13.0-55-generic
+2016/06/18 13:18:39 [notice] 19970: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:18:39 [notice] 19970: start virtual processes
+2016/06/18 13:18:39 [notice] 19970: start virtual processes 19975
+2016/06/18 13:18:39 [notice] 19970: start traffic processes
+2016/06/18 13:18:39 [notice] 19970: start traffic process 19976
+2016/06/18 13:18:41 [notice] 19970: signal 15 (SIG15) received, exiting
+2016/06/18 13:18:50 [notice] 19975: signal 15 (SIG15) received, exiting
+2016/06/18 13:18:50 [notice] 19975: exiting
+2016/06/18 13:18:50 [notice] 19975: exit
+2016/06/18 13:18:50 [notice] 19976: signal 15 (SIG15) received, exiting
+2016/06/18 13:18:50 [notice] 19976: exiting
+2016/06/18 13:18:50 [notice] 19976: exit
+2016/06/18 13:18:50 [notice] 19970: signal 17 (SIGCHLD) received
+2016/06/18 13:18:50 [notice] 19970: virtual processes 19975 exited with code 0
+2016/06/18 13:18:50 [notice] 19970: traffic process 19976 exited with code 0
+2016/06/18 13:18:50 [notice] 19970: exit
+2016/06/18 13:19:02 [notice] 20004: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:19:02 [notice] 20004: using the "random" user's behaver method
+2016/06/18 13:19:02 [notice] 20004: ntrig/1.0
+2016/06/18 13:19:02 [notice] 20004: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:19:02 [notice] 20004: OS: Linux 3.13.0-55-generic
+2016/06/18 13:19:02 [notice] 20004: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:19:02 [notice] 20004: start virtual processes
+2016/06/18 13:19:02 [notice] 20004: start virtual processes 20009
+2016/06/18 13:19:02 [notice] 20004: start traffic processes
+2016/06/18 13:19:02 [notice] 20004: start traffic process 20010
+2016/06/18 13:19:12 [alert] 20009: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:19:12 [crit] 20009: failed to send a message to the (0) process.
+2016/06/18 13:19:12 [notice] 20010: signal 15 (SIG15) received, exiting
+2016/06/18 13:19:12 [notice] 20010: exiting
+2016/06/18 13:19:12 [notice] 20010: exit
+2016/06/18 13:19:12 [notice] 20009: signal 15 (SIG15) received, exiting
+2016/06/18 13:19:12 [notice] 20009: exiting
+2016/06/18 13:19:12 [notice] 20009: exit
+2016/06/18 13:19:06 [notice] 20004: signal 15 (SIG15) received, exiting
+2016/06/18 13:19:06 [notice] 20004: signal 17 (SIGCHLD) received
+2016/06/18 13:19:06 [notice] 20004: virtual processes 20009 exited with code 0
+2016/06/18 13:19:13 [notice] 20004: signal 17 (SIGCHLD) received
+2016/06/18 13:19:13 [notice] 20004: traffic process 20010 exited with code 0
+2016/06/18 13:19:13 [notice] 20004: exit
+2016/06/18 13:20:01 [notice] 20050: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:20:01 [notice] 20050: using the "random" user's behaver method
+2016/06/18 13:20:01 [notice] 20050: ntrig/1.0
+2016/06/18 13:20:01 [notice] 20050: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:20:01 [notice] 20050: OS: Linux 3.13.0-55-generic
+2016/06/18 13:20:01 [notice] 20050: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:20:01 [notice] 20050: start virtual processes
+2016/06/18 13:20:01 [notice] 20050: start virtual processes 20055
+2016/06/18 13:20:01 [notice] 20050: start traffic processes
+2016/06/18 13:20:01 [notice] 20050: start traffic process 20056
+2016/06/18 13:20:01 [notice] 20050: signal 17 (SIGCHLD) received
+2016/06/18 13:20:01 [alert] 20050: traffic process 20056 exited on signal 11 (core dumped)
+2016/06/18 13:20:01 [notice] 20050: start traffic process 20060
+2016/06/18 13:20:07 [notice] 20055: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:07 [notice] 20055: exiting
+2016/06/18 13:20:07 [notice] 20055: exit
+2016/06/18 13:20:07 [notice] 20050: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:09 [notice] 20060: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:09 [notice] 20060: exiting
+2016/06/18 13:20:09 [notice] 20060: exit
+2016/06/18 13:20:10 [notice] 20050: signal 17 (SIGCHLD) received
+2016/06/18 13:20:10 [notice] 20050: traffic process 20060 exited with code 0
+2016/06/18 13:20:10 [notice] 20050: signal 17 (SIGCHLD) received
+2016/06/18 13:20:10 [notice] 20050: virtual processes 20055 exited with code 0
+2016/06/18 13:20:10 [notice] 20050: exit
+2016/06/18 13:20:12 [notice] 20068: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:20:12 [notice] 20068: using the "random" user's behaver method
+2016/06/18 13:20:12 [notice] 20068: ntrig/1.0
+2016/06/18 13:20:12 [notice] 20068: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:20:12 [notice] 20068: OS: Linux 3.13.0-55-generic
+2016/06/18 13:20:12 [notice] 20068: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:20:12 [notice] 20068: start virtual processes
+2016/06/18 13:20:12 [notice] 20068: start virtual processes 20073
+2016/06/18 13:20:12 [notice] 20068: start traffic processes
+2016/06/18 13:20:12 [notice] 20068: start traffic process 20074
+2016/06/18 13:20:17 [notice] 20073: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:17 [notice] 20073: exiting
+2016/06/18 13:20:17 [notice] 20073: exit
+2016/06/18 13:20:18 [notice] 20074: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:18 [notice] 20074: exiting
+2016/06/18 13:20:18 [notice] 20074: exit
+2016/06/18 13:20:14 [notice] 20068: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:18 [notice] 20068: signal 17 (SIGCHLD) received
+2016/06/18 13:20:18 [notice] 20068: traffic process 20074 exited with code 0
+2016/06/18 13:20:18 [notice] 20068: signal 17 (SIGCHLD) received
+2016/06/18 13:20:18 [notice] 20068: virtual processes 20073 exited with code 0
+2016/06/18 13:20:18 [notice] 20068: exit
+2016/06/18 13:20:29 [notice] 20104: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:20:29 [notice] 20104: using the "random" user's behaver method
+2016/06/18 13:20:29 [notice] 20104: ntrig/1.0
+2016/06/18 13:20:29 [notice] 20104: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:20:29 [notice] 20104: OS: Linux 3.13.0-55-generic
+2016/06/18 13:20:29 [notice] 20104: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:20:29 [notice] 20104: start virtual processes
+2016/06/18 13:20:29 [notice] 20104: start virtual processes 20109
+2016/06/18 13:20:29 [notice] 20104: start traffic processes
+2016/06/18 13:20:29 [notice] 20104: start traffic process 20110
+2016/06/18 13:20:32 [notice] 20109: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:32 [notice] 20109: exiting
+2016/06/18 13:20:32 [notice] 20109: exit
+2016/06/18 13:20:32 [notice] 20104: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:37 [notice] 20104: signal 17 (SIGCHLD) received
+2016/06/18 13:20:37 [notice] 20104: virtual processes 20109 exited with code 0
+2016/06/18 13:20:37 [notice] 20110: signal 15 (SIG15) received, exiting
+2016/06/18 13:20:37 [notice] 20110: exiting
+2016/06/18 13:20:37 [notice] 20110: exit
+2016/06/18 13:20:37 [notice] 20104: signal 17 (SIGCHLD) received
+2016/06/18 13:20:37 [notice] 20104: traffic process 20110 exited with code 0
+2016/06/18 13:20:37 [notice] 20104: exit
+2016/06/18 13:21:48 [notice] 20148: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:21:48 [notice] 20148: using the "random" user's behaver method
+2016/06/18 13:21:48 [notice] 20148: ntrig/1.0
+2016/06/18 13:21:48 [notice] 20148: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:21:48 [notice] 20148: OS: Linux 3.13.0-55-generic
+2016/06/18 13:21:48 [notice] 20148: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:21:48 [notice] 20148: start virtual processes
+2016/06/18 13:21:48 [notice] 20148: start virtual processes 20153
+2016/06/18 13:21:48 [notice] 20148: start traffic processes
+2016/06/18 13:21:48 [notice] 20148: start traffic process 20154
+2016/06/18 13:21:56 [notice] 20154: signal 15 (SIG15) received, exiting
+2016/06/18 13:21:56 [notice] 20154: exiting
+2016/06/18 13:21:51 [notice] 20148: signal 15 (SIG15) received, exiting
+2016/06/18 13:21:56 [notice] 20154: exit
+2016/06/18 13:21:56 [notice] 20153: exiting
+2016/06/18 13:21:56 [notice] 20153: exit
+2016/06/18 13:21:56 [notice] 20148: signal 17 (SIGCHLD) received
+2016/06/18 13:21:56 [notice] 20148: virtual processes 20153 exited with code 0
+2016/06/18 13:21:56 [notice] 20148: traffic process 20154 exited with code 0
+2016/06/18 13:21:56 [notice] 20148: exit
+2016/06/18 13:23:06 [notice] 20195: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:23:06 [notice] 20195: using the "random" user's behaver method
+2016/06/18 13:23:06 [notice] 20195: ntrig/1.0
+2016/06/18 13:23:06 [notice] 20195: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:23:06 [notice] 20195: OS: Linux 3.13.0-55-generic
+2016/06/18 13:23:06 [notice] 20195: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:23:06 [notice] 20195: start virtual processes
+2016/06/18 13:23:06 [notice] 20195: start virtual processes 20200
+2016/06/18 13:23:06 [notice] 20195: start traffic processes
+2016/06/18 13:23:06 [notice] 20195: start traffic process 20201
+2016/06/18 13:23:06 [notice] 20195: signal 17 (SIGCHLD) received
+2016/06/18 13:23:06 [alert] 20195: traffic process 20201 exited on signal 11 (core dumped)
+2016/06/18 13:23:06 [notice] 20195: start traffic process 20205
+2016/06/18 13:23:09 [notice] 20200: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:09 [notice] 20200: exiting
+2016/06/18 13:23:09 [notice] 20200: exit
+2016/06/18 13:23:09 [notice] 20195: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:11 [notice] 20205: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:11 [notice] 20205: exiting
+2016/06/18 13:23:11 [notice] 20205: exit
+2016/06/18 13:23:12 [notice] 20195: signal 17 (SIGCHLD) received
+2016/06/18 13:23:12 [notice] 20195: traffic process 20205 exited with code 0
+2016/06/18 13:23:12 [notice] 20195: signal 17 (SIGCHLD) received
+2016/06/18 13:23:12 [notice] 20195: virtual processes 20200 exited with code 0
+2016/06/18 13:23:12 [notice] 20195: exit
+2016/06/18 13:23:14 [notice] 20213: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:23:14 [notice] 20213: using the "random" user's behaver method
+2016/06/18 13:23:14 [notice] 20213: ntrig/1.0
+2016/06/18 13:23:14 [notice] 20213: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:23:14 [notice] 20213: OS: Linux 3.13.0-55-generic
+2016/06/18 13:23:14 [notice] 20213: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:23:14 [notice] 20213: start virtual processes
+2016/06/18 13:23:14 [notice] 20213: start virtual processes 20217
+2016/06/18 13:23:14 [notice] 20213: start traffic processes
+2016/06/18 13:23:14 [notice] 20213: start traffic process 20218
+2016/06/18 13:23:14 [notice] 20213: signal 17 (SIGCHLD) received
+2016/06/18 13:23:14 [alert] 20213: traffic process 20218 exited on signal 11 (core dumped)
+2016/06/18 13:23:14 [notice] 20213: start traffic process 20223
+2016/06/18 13:23:17 [notice] 20213: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:17 [notice] 20217: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:17 [notice] 20217: exiting
+2016/06/18 13:23:17 [notice] 20217: exit
+2016/06/18 13:23:20 [notice] 20223: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:20 [notice] 20223: exiting
+2016/06/18 13:23:20 [notice] 20223: exit
+2016/06/18 13:23:20 [notice] 20213: signal 17 (SIGCHLD) received
+2016/06/18 13:23:20 [notice] 20213: virtual processes 20217 exited with code 0
+2016/06/18 13:23:20 [notice] 20213: traffic process 20223 exited with code 0
+2016/06/18 13:23:20 [notice] 20213: exit
+2016/06/18 13:23:39 [notice] 20237: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:23:39 [notice] 20237: using the "random" user's behaver method
+2016/06/18 13:23:39 [notice] 20237: ntrig/1.0
+2016/06/18 13:23:39 [notice] 20237: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:23:39 [notice] 20237: OS: Linux 3.13.0-55-generic
+2016/06/18 13:23:39 [notice] 20237: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:23:39 [notice] 20237: start virtual processes
+2016/06/18 13:23:39 [notice] 20237: start virtual processes 20241
+2016/06/18 13:23:39 [notice] 20237: start traffic processes
+2016/06/18 13:23:39 [notice] 20237: start traffic process 20242
+2016/06/18 13:23:39 [notice] 20237: signal 17 (SIGCHLD) received
+2016/06/18 13:23:39 [alert] 20237: traffic process 20242 exited on signal 11 (core dumped)
+2016/06/18 13:23:39 [notice] 20237: start traffic process 20247
+2016/06/18 13:23:50 [notice] 20241: signal 15 (SIG15) received, exiting
+2016/06/18 13:23:50 [notice] 20241: exiting
+2016/06/18 13:23:50 [notice] 20241: exit
+2016/06/18 13:23:43 [notice] 20237: signal 15 (SIG15) received, exiting
+2016/06/18 13:24:09 [notice] 20247: signal 15 (SIG15) received, exiting
+2016/06/18 13:24:09 [notice] 20247: exiting
+2016/06/18 13:24:09 [notice] 20247: exit
+2016/06/18 13:24:09 [notice] 20237: signal 17 (SIGCHLD) received
+2016/06/18 13:24:09 [notice] 20237: virtual processes 20241 exited with code 0
+2016/06/18 13:24:09 [notice] 20237: signal 17 (SIGCHLD) received
+2016/06/18 13:24:09 [notice] 20237: traffic process 20247 exited with code 0
+2016/06/18 13:24:09 [notice] 20237: exit
+2016/06/18 13:25:02 [notice] 20265: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:25:02 [notice] 20265: using the "random" user's behaver method
+2016/06/18 13:25:02 [notice] 20265: ntrig/1.0
+2016/06/18 13:25:02 [notice] 20265: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:25:02 [notice] 20265: OS: Linux 3.13.0-55-generic
+2016/06/18 13:25:02 [notice] 20265: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:25:02 [notice] 20265: start virtual processes
+2016/06/18 13:25:02 [notice] 20265: start virtual processes 20270
+2016/06/18 13:25:02 [notice] 20265: start traffic processes
+2016/06/18 13:25:02 [notice] 20265: start traffic process 20271
+2016/06/18 13:25:17 [notice] 20265: signal 15 (SIG15) received, exiting
+2016/06/18 13:25:21 [notice] 20271: signal 15 (SIG15) received, exiting
+2016/06/18 13:25:21 [notice] 20271: exiting
+2016/06/18 13:25:21 [notice] 20271: exit
+2016/06/18 13:25:20 [notice] 20270: signal 15 (SIG15) received, exiting
+2016/06/18 13:25:20 [notice] 20270: exiting
+2016/06/18 13:25:20 [notice] 20270: exit
+2016/06/18 13:25:22 [notice] 20265: signal 17 (SIGCHLD) received
+2016/06/18 13:25:22 [notice] 20265: virtual processes 20270 exited with code 0
+2016/06/18 13:25:22 [notice] 20265: traffic process 20271 exited with code 0
+2016/06/18 13:25:22 [notice] 20265: exit
+2016/06/18 13:25:34 [notice] 20304: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:25:34 [notice] 20304: using the "random" user's behaver method
+2016/06/18 13:25:34 [notice] 20304: ntrig/1.0
+2016/06/18 13:25:34 [notice] 20304: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:25:34 [notice] 20304: OS: Linux 3.13.0-55-generic
+2016/06/18 13:25:34 [notice] 20304: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:25:34 [notice] 20304: start virtual processes
+2016/06/18 13:25:34 [notice] 20304: start virtual processes 20309
+2016/06/18 13:25:34 [notice] 20304: start traffic processes
+2016/06/18 13:25:34 [notice] 20304: start traffic process 20310
+2016/06/18 13:25:38 [notice] 20304: signal 15 (SIG15) received, exiting
+2016/06/18 13:25:45 [notice] 20309: signal 15 (SIG15) received, exiting
+2016/06/18 13:25:45 [notice] 20309: exiting
+2016/06/18 13:25:45 [notice] 20309: exit
+2016/06/18 13:25:45 [notice] 20310: signal 15 (SIG15) received, exiting
+2016/06/18 13:25:45 [notice] 20310: exiting
+2016/06/18 13:25:45 [notice] 20310: exit
+2016/06/18 13:25:46 [notice] 20304: signal 17 (SIGCHLD) received
+2016/06/18 13:25:46 [notice] 20304: traffic process 20310 exited with code 0
+2016/06/18 13:25:46 [notice] 20304: signal 17 (SIGCHLD) received
+2016/06/18 13:25:46 [notice] 20304: virtual processes 20309 exited with code 0
+2016/06/18 13:25:46 [notice] 20304: exit
+2016/06/18 13:29:05 [notice] 20543: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:29:05 [notice] 20543: using the "random" user's behaver method
+2016/06/18 13:29:05 [notice] 20543: ntrig/1.0
+2016/06/18 13:29:05 [notice] 20543: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:29:05 [notice] 20543: OS: Linux 3.13.0-55-generic
+2016/06/18 13:29:05 [notice] 20543: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:29:05 [notice] 20543: start virtual processes
+2016/06/18 13:29:05 [notice] 20543: start virtual processes 20548
+2016/06/18 13:29:05 [notice] 20543: start traffic processes
+2016/06/18 13:29:05 [notice] 20543: start traffic process 20549
+2016/06/18 13:29:14 [notice] 20549: signal 15 (SIG15) received, exiting
+2016/06/18 13:29:14 [notice] 20549: exiting
+2016/06/18 13:29:14 [notice] 20549: exit
+2016/06/18 13:29:08 [notice] 20543: signal 15 (SIG15) received, exiting
+2016/06/18 13:29:13 [notice] 20548: signal 15 (SIG15) received, exiting
+2016/06/18 13:29:13 [notice] 20548: exiting
+2016/06/18 13:29:13 [notice] 20548: exit
+2016/06/18 13:29:14 [notice] 20543: signal 17 (SIGCHLD) received
+2016/06/18 13:29:14 [notice] 20543: virtual processes 20548 exited with code 0
+2016/06/18 13:29:14 [notice] 20543: signal 17 (SIGCHLD) received
+2016/06/18 13:29:14 [notice] 20543: traffic process 20549 exited with code 0
+2016/06/18 13:29:14 [notice] 20543: exit
+2016/06/18 13:30:07 [notice] 20604: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:30:07 [notice] 20604: using the "random" user's behaver method
+2016/06/18 13:30:07 [notice] 20604: ntrig/1.0
+2016/06/18 13:30:07 [notice] 20604: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:30:07 [notice] 20604: OS: Linux 3.13.0-55-generic
+2016/06/18 13:30:07 [notice] 20604: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:30:07 [notice] 20604: start virtual processes
+2016/06/18 13:30:07 [notice] 20604: start virtual processes 20609
+2016/06/18 13:30:07 [notice] 20604: start traffic processes
+2016/06/18 13:30:07 [notice] 20604: start traffic process 20610
+2016/06/18 13:30:22 [notice] 20609: signal 15 (SIG15) received, exiting
+2016/06/18 13:30:22 [notice] 20609: exiting
+2016/06/18 13:30:22 [notice] 20609: exit
+2016/06/18 13:30:09 [notice] 20604: signal 15 (SIG15) received, exiting
+2016/06/18 13:30:23 [notice] 20604: signal 17 (SIGCHLD) received
+2016/06/18 13:30:23 [notice] 20604: virtual processes 20609 exited with code 0
+2016/06/18 13:30:23 [notice] 20610: signal 15 (SIG15) received, exiting
+2016/06/18 13:30:23 [notice] 20610: exiting
+2016/06/18 13:30:23 [notice] 20610: exit
+2016/06/18 13:30:23 [notice] 20604: signal 17 (SIGCHLD) received
+2016/06/18 13:30:23 [notice] 20604: traffic process 20610 exited with code 0
+2016/06/18 13:30:23 [notice] 20604: exit
+2016/06/18 13:33:20 [notice] 20674: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:33:20 [notice] 20674: using the "random" user's behaver method
+2016/06/18 13:33:20 [notice] 20674: ntrig/1.0
+2016/06/18 13:33:20 [notice] 20674: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:33:20 [notice] 20674: OS: Linux 3.13.0-55-generic
+2016/06/18 13:33:20 [notice] 20674: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:33:20 [notice] 20674: start virtual processes
+2016/06/18 13:33:20 [notice] 20674: start virtual processes 20679
+2016/06/18 13:33:20 [notice] 20674: start traffic processes
+2016/06/18 13:33:20 [notice] 20674: start traffic process 20680
+2016/06/18 13:33:20 [notice] 20674: signal 17 (SIGCHLD) received
+2016/06/18 13:33:20 [alert] 20674: traffic process 20680 exited on signal 11 (core dumped)
+2016/06/18 13:33:20 [notice] 20674: start traffic process 20685
+2016/06/18 13:33:25 [notice] 20674: signal 15 (SIG15) received, exiting
+2016/06/18 13:33:25 [notice] 20679: signal 15 (SIG15) received, exiting
+2016/06/18 13:33:25 [notice] 20679: exiting
+2016/06/18 13:33:25 [notice] 20679: exit
+2016/06/18 13:33:27 [notice] 20685: signal 15 (SIG15) received, exiting
+2016/06/18 13:33:27 [notice] 20685: exiting
+2016/06/18 13:33:28 [notice] 20674: signal 17 (SIGCHLD) received
+2016/06/18 13:33:28 [notice] 20674: virtual processes 20679 exited with code 0
+2016/06/18 13:33:27 [notice] 20685: exit
+2016/06/18 13:33:28 [notice] 20674: signal 17 (SIGCHLD) received
+2016/06/18 13:33:28 [notice] 20674: traffic process 20685 exited with code 0
+2016/06/18 13:33:28 [notice] 20674: exit
+2016/06/18 13:33:30 [notice] 20693: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:33:30 [notice] 20693: using the "random" user's behaver method
+2016/06/18 13:33:30 [notice] 20693: ntrig/1.0
+2016/06/18 13:33:30 [notice] 20693: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:33:30 [notice] 20693: OS: Linux 3.13.0-55-generic
+2016/06/18 13:33:30 [notice] 20693: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:33:30 [notice] 20693: start virtual processes
+2016/06/18 13:33:30 [notice] 20693: start virtual processes 20698
+2016/06/18 13:33:30 [notice] 20693: start traffic processes
+2016/06/18 13:33:30 [notice] 20693: start traffic process 20699
+2016/06/18 13:33:56 [alert] 20698: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:33:56 [crit] 20698: failed to send a message to the (0) process.
+2016/06/18 13:33:56 [alert] 20698: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:33:56 [crit] 20698: failed to send a message to the (0) process.
+2016/06/18 13:34:02 [alert] 20698: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:34:02 [crit] 20698: failed to send a message to the (0) process.
+2016/06/18 13:34:02 [alert] 20698: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:34:02 [crit] 20698: failed to send a message to the (0) process.
+2016/06/18 13:34:02 [alert] 20698: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:34:02 [crit] 20698: failed to send a message to the (0) process.
+2016/06/18 13:34:04 [alert] 20698: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:34:04 [crit] 20698: failed to send a message to the (0) process.
+2016/06/18 13:34:05 [notice] 20698: signal 15 (SIG15) received, exiting
+2016/06/18 13:34:05 [notice] 20698: exiting
+2016/06/18 13:34:05 [notice] 20698: exit
+2016/06/18 13:33:35 [notice] 20693: signal 15 (SIG15) received, exiting
+2016/06/18 13:34:05 [notice] 20699: signal 15 (SIG15) received, exiting
+2016/06/18 13:34:05 [notice] 20699: exiting
+2016/06/18 13:34:05 [notice] 20699: exit
+2016/06/18 13:34:06 [notice] 20693: signal 17 (SIGCHLD) received
+2016/06/18 13:34:06 [notice] 20693: virtual processes 20698 exited with code 0
+2016/06/18 13:34:06 [notice] 20693: signal 17 (SIGCHLD) received
+2016/06/18 13:34:06 [notice] 20693: traffic process 20699 exited with code 0
+2016/06/18 13:34:06 [notice] 20693: exit
+2016/06/18 13:37:18 [notice] 20761: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:37:18 [notice] 20761: using the "random" user's behaver method
+2016/06/18 13:37:18 [notice] 20761: ntrig/1.0
+2016/06/18 13:37:18 [notice] 20761: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:37:18 [notice] 20761: OS: Linux 3.13.0-55-generic
+2016/06/18 13:37:18 [notice] 20761: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:37:18 [notice] 20761: start virtual processes
+2016/06/18 13:37:18 [notice] 20761: start virtual processes 20766
+2016/06/18 13:37:18 [notice] 20761: start traffic processes
+2016/06/18 13:37:18 [notice] 20761: start traffic process 20767
+2016/06/18 13:37:18 [notice] 20761: signal 17 (SIGCHLD) received
+2016/06/18 13:37:18 [alert] 20761: traffic process 20767 exited on signal 11 (core dumped)
+2016/06/18 13:37:18 [notice] 20761: start traffic process 20771
+2016/06/18 13:37:22 [notice] 20766: signal 15 (SIG15) received, exiting
+2016/06/18 13:37:22 [notice] 20766: exiting
+2016/06/18 13:37:22 [notice] 20766: exit
+2016/06/18 13:37:22 [notice] 20761: signal 15 (SIG15) received, exiting
+2016/06/18 13:37:25 [notice] 20771: signal 15 (SIG15) received, exiting
+2016/06/18 13:37:25 [notice] 20771: exiting
+2016/06/18 13:37:25 [notice] 20771: exit
+2016/06/18 13:37:26 [notice] 20761: signal 17 (SIGCHLD) received
+2016/06/18 13:37:26 [notice] 20761: traffic process 20771 exited with code 0
+2016/06/18 13:37:26 [notice] 20761: signal 17 (SIGCHLD) received
+2016/06/18 13:37:26 [notice] 20761: virtual processes 20766 exited with code 0
+2016/06/18 13:37:26 [notice] 20761: exit
+2016/06/18 13:37:28 [notice] 20780: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:37:28 [notice] 20780: using the "random" user's behaver method
+2016/06/18 13:37:28 [notice] 20780: ntrig/1.0
+2016/06/18 13:37:28 [notice] 20780: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:37:28 [notice] 20780: OS: Linux 3.13.0-55-generic
+2016/06/18 13:37:28 [notice] 20780: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:37:28 [notice] 20780: start virtual processes
+2016/06/18 13:37:28 [notice] 20780: start virtual processes 20785
+2016/06/18 13:37:28 [notice] 20780: start traffic processes
+2016/06/18 13:37:28 [notice] 20780: start traffic process 20786
+2016/06/18 13:37:28 [notice] 20780: signal 17 (SIGCHLD) received
+2016/06/18 13:37:28 [alert] 20780: traffic process 20786 exited on signal 11 (core dumped)
+2016/06/18 13:37:28 [notice] 20780: start traffic process 20790
+2016/06/18 13:37:32 [notice] 20780: signal 15 (SIG15) received, exiting
+2016/06/18 13:37:32 [notice] 20785: signal 15 (SIG15) received, exiting
+2016/06/18 13:37:32 [notice] 20785: exiting
+2016/06/18 13:37:32 [notice] 20785: exit
+2016/06/18 13:37:33 [notice] 20790: signal 15 (SIG15) received, exiting
+2016/06/18 13:37:33 [notice] 20790: exiting
+2016/06/18 13:37:33 [notice] 20790: exit
+2016/06/18 13:37:34 [notice] 20780: signal 17 (SIGCHLD) received
+2016/06/18 13:37:34 [notice] 20780: traffic process 20790 exited with code 0
+2016/06/18 13:37:34 [notice] 20780: signal 17 (SIGCHLD) received
+2016/06/18 13:37:34 [notice] 20780: virtual processes 20785 exited with code 0
+2016/06/18 13:37:34 [notice] 20780: exit
+2016/06/18 13:38:13 [notice] 20807: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:38:13 [notice] 20807: using the "random" user's behaver method
+2016/06/18 13:38:13 [notice] 20807: ntrig/1.0
+2016/06/18 13:38:13 [notice] 20807: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:38:13 [notice] 20807: OS: Linux 3.13.0-55-generic
+2016/06/18 13:38:13 [notice] 20807: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:38:13 [notice] 20807: start virtual processes
+2016/06/18 13:38:13 [notice] 20807: start virtual processes 20813
+2016/06/18 13:38:13 [notice] 20807: start traffic processes
+2016/06/18 13:38:13 [notice] 20807: start traffic process 20814
+2016/06/18 13:38:13 [notice] 20807: signal 17 (SIGCHLD) received
+2016/06/18 13:38:13 [alert] 20807: traffic process 20814 exited on signal 11 (core dumped)
+2016/06/18 13:38:13 [notice] 20807: start traffic process 20818
+2016/06/18 13:38:17 [notice] 20813: signal 15 (SIG15) received, exiting
+2016/06/18 13:38:17 [notice] 20813: exiting
+2016/06/18 13:38:17 [notice] 20813: exit
+2016/06/18 13:38:17 [notice] 20807: signal 15 (SIG15) received, exiting
+2016/06/18 13:38:19 [notice] 20818: signal 15 (SIG15) received, exiting
+2016/06/18 13:38:19 [notice] 20818: exiting
+2016/06/18 13:38:19 [notice] 20818: exit
+2016/06/18 13:38:20 [notice] 20807: signal 17 (SIGCHLD) received
+2016/06/18 13:38:20 [notice] 20807: virtual processes 20813 exited with code 0
+2016/06/18 13:38:20 [notice] 20807: signal 17 (SIGCHLD) received
+2016/06/18 13:38:20 [notice] 20807: traffic process 20818 exited with code 0
+2016/06/18 13:38:20 [notice] 20807: exit
+2016/06/18 13:38:27 [notice] 20826: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:38:27 [notice] 20826: using the "random" user's behaver method
+2016/06/18 13:38:27 [notice] 20826: ntrig/1.0
+2016/06/18 13:38:27 [notice] 20826: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:38:27 [notice] 20826: OS: Linux 3.13.0-55-generic
+2016/06/18 13:38:27 [notice] 20826: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:38:27 [notice] 20826: start virtual processes
+2016/06/18 13:38:27 [notice] 20826: start virtual processes 20831
+2016/06/18 13:38:27 [notice] 20826: start traffic processes
+2016/06/18 13:38:27 [notice] 20826: start traffic process 20832
+2016/06/18 13:38:42 [alert] 20831: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:38:42 [crit] 20831: failed to send a message to the (0) process.
+2016/06/18 13:38:43 [alert] 20831: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:38:43 [crit] 20831: failed to send a message to the (0) process.
+2016/06/18 13:38:48 [alert] 20831: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:38:48 [crit] 20831: failed to send a message to the (0) process.
+2016/06/18 13:38:48 [alert] 20831: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:38:48 [crit] 20831: failed to send a message to the (0) process.
+2016/06/18 13:38:50 [notice] 20832: signal 15 (SIG15) received, exiting
+2016/06/18 13:38:50 [notice] 20832: exiting
+2016/06/18 13:38:50 [notice] 20832: exit
+2016/06/18 13:38:50 [notice] 20831: signal 15 (SIG15) received, exiting
+2016/06/18 13:38:50 [notice] 20831: exiting
+2016/06/18 13:38:50 [notice] 20831: exit
+2016/06/18 13:38:29 [notice] 20826: signal 15 (SIG15) received, exiting
+2016/06/18 13:38:29 [notice] 20826: signal 17 (SIGCHLD) received
+2016/06/18 13:38:29 [notice] 20826: virtual processes 20831 exited with code 0
+2016/06/18 13:38:29 [notice] 20826: traffic process 20832 exited with code 0
+2016/06/18 13:38:29 [notice] 20826: exit
+2016/06/18 13:43:48 [notice] 20938: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:43:48 [notice] 20938: using the "random" user's behaver method
+2016/06/18 13:43:48 [notice] 20938: ntrig/1.0
+2016/06/18 13:43:48 [notice] 20938: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:43:48 [notice] 20938: OS: Linux 3.13.0-55-generic
+2016/06/18 13:43:48 [notice] 20938: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:43:48 [notice] 20938: start virtual processes
+2016/06/18 13:43:48 [notice] 20938: start virtual processes 20943
+2016/06/18 13:43:48 [notice] 20938: start traffic processes
+2016/06/18 13:43:48 [notice] 20938: start traffic process 20944
+2016/06/18 13:43:48 [notice] 20938: signal 17 (SIGCHLD) received
+2016/06/18 13:43:48 [alert] 20938: traffic process 20944 exited on signal 11 (core dumped)
+2016/06/18 13:43:48 [notice] 20938: start traffic process 20949
+2016/06/18 13:43:52 [notice] 20938: signal 15 (SIG15) received, exiting
+2016/06/18 13:43:52 [notice] 20943: exiting
+2016/06/18 13:43:52 [notice] 20943: exit
+2016/06/18 13:43:54 [notice] 20949: signal 15 (SIG15) received, exiting
+2016/06/18 13:43:54 [notice] 20949: exiting
+2016/06/18 13:43:54 [notice] 20938: signal 17 (SIGCHLD) received
+2016/06/18 13:43:54 [notice] 20938: virtual processes 20943 exited with code 0
+2016/06/18 13:43:54 [notice] 20949: exit
+2016/06/18 13:43:54 [notice] 20938: signal 17 (SIGCHLD) received
+2016/06/18 13:43:54 [notice] 20938: traffic process 20949 exited with code 0
+2016/06/18 13:43:54 [notice] 20938: exit
+2016/06/18 13:43:56 [notice] 20956: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:43:56 [notice] 20956: using the "random" user's behaver method
+2016/06/18 13:43:56 [notice] 20956: ntrig/1.0
+2016/06/18 13:43:56 [notice] 20956: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:43:56 [notice] 20956: OS: Linux 3.13.0-55-generic
+2016/06/18 13:43:56 [notice] 20956: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:43:56 [notice] 20956: start virtual processes
+2016/06/18 13:43:56 [notice] 20956: start virtual processes 20961
+2016/06/18 13:43:56 [notice] 20956: start traffic processes
+2016/06/18 13:43:56 [notice] 20956: start traffic process 20962
+2016/06/18 13:43:56 [notice] 20956: signal 17 (SIGCHLD) received
+2016/06/18 13:43:56 [alert] 20956: traffic process 20962 exited on signal 11 (core dumped)
+2016/06/18 13:43:56 [notice] 20956: start traffic process 20966
+2016/06/18 13:43:59 [notice] 20961: signal 15 (SIG15) received, exiting
+2016/06/18 13:43:59 [notice] 20961: exiting
+2016/06/18 13:43:59 [notice] 20961: exit
+2016/06/18 13:43:59 [notice] 20956: signal 15 (SIG15) received, exiting
+2016/06/18 13:44:01 [notice] 20956: signal 17 (SIGCHLD) received
+2016/06/18 13:44:01 [notice] 20956: virtual processes 20961 exited with code 0
+2016/06/18 13:44:01 [notice] 20966: signal 15 (SIG15) received, exiting
+2016/06/18 13:44:01 [notice] 20966: exiting
+2016/06/18 13:44:01 [notice] 20966: exit
+2016/06/18 13:44:01 [notice] 20956: signal 17 (SIGCHLD) received
+2016/06/18 13:44:01 [notice] 20956: traffic process 20966 exited with code 0
+2016/06/18 13:44:01 [notice] 20956: exit
+2016/06/18 13:44:09 [notice] 20973: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:44:09 [notice] 20973: using the "random" user's behaver method
+2016/06/18 13:44:09 [notice] 20973: ntrig/1.0
+2016/06/18 13:44:09 [notice] 20973: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:44:09 [notice] 20973: OS: Linux 3.13.0-55-generic
+2016/06/18 13:44:09 [notice] 20973: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:44:09 [notice] 20973: start virtual processes
+2016/06/18 13:44:09 [notice] 20973: start virtual processes 20977
+2016/06/18 13:44:09 [notice] 20973: start traffic processes
+2016/06/18 13:44:09 [notice] 20973: start traffic process 20978
+2016/06/18 13:44:27 [alert] 20977: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:44:27 [crit] 20977: failed to send a message to the (0) process.
+2016/06/18 13:44:28 [alert] 20977: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:44:28 [crit] 20977: failed to send a message to the (0) process.
+2016/06/18 13:44:29 [alert] 20977: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:44:29 [crit] 20977: failed to send a message to the (0) process.
+2016/06/18 13:44:34 [alert] 20977: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:44:34 [crit] 20977: failed to send a message to the (0) process.
+2016/06/18 13:44:37 [alert] 20977: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:44:37 [crit] 20977: failed to send a message to the (0) process.
+2016/06/18 13:44:38 [alert] 20977: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:44:38 [crit] 20977: failed to send a message to the (0) process.
+2016/06/18 13:44:39 [notice] 20977: signal 15 (SIG15) received, exiting
+2016/06/18 13:44:39 [notice] 20977: exiting
+2016/06/18 13:44:39 [notice] 20977: exit
+2016/06/18 13:44:12 [notice] 20973: signal 15 (SIG15) received, exiting
+2016/06/18 13:44:39 [notice] 20973: signal 17 (SIGCHLD) received
+2016/06/18 13:44:39 [notice] 20973: virtual processes 20977 exited with code 0
+2016/06/18 13:44:39 [notice] 20978: signal 15 (SIG15) received, exiting
+2016/06/18 13:44:39 [notice] 20978: exiting
+2016/06/18 13:44:39 [notice] 20978: exit
+2016/06/18 13:44:39 [notice] 20973: signal 17 (SIGCHLD) received
+2016/06/18 13:44:39 [notice] 20973: traffic process 20978 exited with code 0
+2016/06/18 13:44:39 [notice] 20973: exit
+2016/06/18 13:47:24 [notice] 21052: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:47:24 [notice] 21052: using the "random" user's behaver method
+2016/06/18 13:47:24 [notice] 21052: ntrig/1.0
+2016/06/18 13:47:24 [notice] 21052: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:47:24 [notice] 21052: OS: Linux 3.13.0-55-generic
+2016/06/18 13:47:24 [notice] 21052: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:47:24 [notice] 21052: start virtual processes
+2016/06/18 13:47:24 [notice] 21052: start virtual processes 21057
+2016/06/18 13:47:24 [notice] 21052: start traffic processes
+2016/06/18 13:47:24 [notice] 21052: start traffic process 21058
+2016/06/18 13:47:44 [alert] 21057: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:47:44 [crit] 21057: failed to send a message to the (0) process.
+2016/06/18 13:47:45 [alert] 21057: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:47:45 [crit] 21057: failed to send a message to the (0) process.
+2016/06/18 13:47:46 [alert] 21057: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:47:46 [crit] 21057: failed to send a message to the (0) process.
+2016/06/18 13:47:46 [alert] 21057: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:47:46 [crit] 21057: failed to send a message to the (0) process.
+2016/06/18 13:47:49 [alert] 21057: sendmsg() failed (88: Socket operation on non-socket)
+2016/06/18 13:47:49 [crit] 21057: failed to send a message to the (0) process.
+2016/06/18 13:47:50 [notice] 21057: signal 15 (SIG15) received, exiting
+2016/06/18 13:47:50 [notice] 21057: exiting
+2016/06/18 13:47:50 [notice] 21057: exit
+2016/06/18 13:47:28 [notice] 21052: signal 15 (SIG15) received, exiting
+2016/06/18 13:47:55 [notice] 21052: signal 17 (SIGCHLD) received
+2016/06/18 13:47:55 [notice] 21052: virtual processes 21057 exited with code 0
+2016/06/18 13:47:54 [notice] 21058: signal 15 (SIG15) received, exiting
+2016/06/18 13:47:54 [notice] 21058: exiting
+2016/06/18 13:47:54 [notice] 21058: exit
+2016/06/18 13:47:55 [notice] 21052: signal 17 (SIGCHLD) received
+2016/06/18 13:47:55 [notice] 21052: traffic process 21058 exited with code 0
+2016/06/18 13:47:55 [notice] 21052: exit
+2016/06/18 13:57:58 [notice] 21241: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 13:57:58 [notice] 21241: using the "random" user's behaver method
+2016/06/18 13:57:58 [notice] 21241: ntrig/1.0
+2016/06/18 13:57:58 [notice] 21241: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 13:57:58 [notice] 21241: OS: Linux 3.13.0-55-generic
+2016/06/18 13:57:58 [notice] 21241: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 13:57:58 [notice] 21241: start virtual processes
+2016/06/18 13:57:58 [notice] 21241: start virtual processes 21242
+2016/06/18 13:57:58 [notice] 21241: start traffic processes
+2016/06/18 13:57:58 [notice] 21241: start traffic process 21243
+2016/06/18 13:58:33 [notice] 21242: signal 15 (SIG15) received, exiting
+2016/06/18 13:58:33 [notice] 21242: exiting
+2016/06/18 13:58:33 [notice] 21242: exit
+2016/06/18 13:58:02 [notice] 21241: signal 15 (SIG15) received, exiting
+2016/06/18 13:58:34 [notice] 21243: signal 15 (SIG15) received, exiting
+2016/06/18 13:58:34 [notice] 21243: exiting
+2016/06/18 13:58:34 [notice] 21243: exit
+2016/06/18 13:58:34 [notice] 21241: signal 17 (SIGCHLD) received
+2016/06/18 13:58:34 [notice] 21241: virtual processes 21242 exited with code 0
+2016/06/18 13:58:34 [notice] 21241: signal 17 (SIGCHLD) received
+2016/06/18 13:58:34 [notice] 21241: traffic process 21243 exited with code 0
+2016/06/18 13:58:34 [notice] 21241: exit
+2016/06/18 14:02:08 [notice] 21322: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:02:08 [notice] 21322: using the "random" user's behaver method
+2016/06/18 14:02:08 [notice] 21322: ntrig/1.0
+2016/06/18 14:02:08 [notice] 21322: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:02:08 [notice] 21322: OS: Linux 3.13.0-55-generic
+2016/06/18 14:02:08 [notice] 21322: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:02:08 [notice] 21322: start virtual processes
+2016/06/18 14:02:08 [notice] 21322: start virtual processes 21327
+2016/06/18 14:02:08 [notice] 21322: start traffic processes
+2016/06/18 14:02:08 [notice] 21322: start traffic process 21328
+2016/06/18 14:02:36 [notice] 21328: signal 15 (SIG15) received, exiting
+2016/06/18 14:02:36 [notice] 21328: exiting
+2016/06/18 14:02:36 [notice] 21328: exit
+2016/06/18 14:02:12 [notice] 21322: signal 15 (SIG15) received, exiting
+2016/06/18 14:02:35 [notice] 21327: signal 15 (SIG15) received, exiting
+2016/06/18 14:02:35 [notice] 21327: exiting
+2016/06/18 14:02:35 [notice] 21327: exit
+2016/06/18 14:02:12 [notice] 21322: signal 17 (SIGCHLD) received
+2016/06/18 14:02:12 [notice] 21322: virtual processes 21327 exited with code 0
+2016/06/18 14:02:12 [notice] 21322: traffic process 21328 exited with code 0
+2016/06/18 14:02:12 [notice] 21322: exit
+2016/06/18 14:03:22 [notice] 21361: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:03:22 [notice] 21361: using the "random" user's behaver method
+2016/06/18 14:03:22 [notice] 21361: ntrig/1.0
+2016/06/18 14:03:22 [notice] 21361: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:03:22 [notice] 21361: OS: Linux 3.13.0-55-generic
+2016/06/18 14:03:22 [notice] 21361: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:03:22 [notice] 21361: start virtual processes
+2016/06/18 14:03:22 [notice] 21361: start virtual processes 21365
+2016/06/18 14:03:22 [notice] 21361: start traffic processes
+2016/06/18 14:03:22 [notice] 21361: start traffic process 21366
+2016/06/18 14:04:19 [notice] 21366: signal 15 (SIG15) received, exiting
+2016/06/18 14:04:19 [notice] 21366: exiting
+2016/06/18 14:04:19 [notice] 21366: exit
+2016/06/18 14:04:14 [notice] 21365: signal 15 (SIG15) received, exiting
+2016/06/18 14:04:14 [notice] 21365: exiting
+2016/06/18 14:04:14 [notice] 21365: exit
+2016/06/18 14:03:26 [notice] 21361: signal 15 (SIG15) received, exiting
+2016/06/18 14:03:26 [notice] 21361: signal 17 (SIGCHLD) received
+2016/06/18 14:03:26 [notice] 21361: virtual processes 21365 exited with code 0
+2016/06/18 14:03:26 [notice] 21361: traffic process 21366 exited with code 0
+2016/06/18 14:03:26 [notice] 21361: exit
+2016/06/18 14:42:51 [notice] 21694: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:42:51 [notice] 21694: using the "random" user's behaver method
+2016/06/18 14:42:51 [notice] 21694: ntrig/1.0
+2016/06/18 14:42:51 [notice] 21694: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:42:51 [notice] 21694: OS: Linux 3.13.0-55-generic
+2016/06/18 14:42:51 [notice] 21694: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:42:51 [notice] 21694: start virtual processes
+2016/06/18 14:42:51 [notice] 21694: start virtual processes 21696
+2016/06/18 14:42:51 [notice] 21694: start traffic processes
+2016/06/18 14:42:51 [notice] 21694: start traffic process 21697
+2016/06/18 14:42:51 [notice] 21694: signal 17 (SIGCHLD) received
+2016/06/18 14:42:51 [alert] 21694: traffic process 21697 exited on signal 11 (core dumped)
+2016/06/18 14:42:51 [notice] 21694: start traffic process 21704
+2016/06/18 14:42:55 [notice] 21696: signal 15 (SIG15) received, exiting
+2016/06/18 14:42:55 [notice] 21696: exiting
+2016/06/18 14:42:55 [notice] 21696: exit
+2016/06/18 14:42:55 [notice] 21694: signal 15 (SIG15) received, exiting
+2016/06/18 14:42:57 [notice] 21704: signal 15 (SIG15) received, exiting
+2016/06/18 14:42:57 [notice] 21704: exiting
+2016/06/18 14:42:57 [notice] 21704: exit
+2016/06/18 14:42:57 [notice] 21694: signal 17 (SIGCHLD) received
+2016/06/18 14:42:57 [notice] 21694: traffic process 21704 exited with code 0
+2016/06/18 14:42:57 [notice] 21694: signal 17 (SIGCHLD) received
+2016/06/18 14:42:57 [notice] 21694: virtual processes 21696 exited with code 0
+2016/06/18 14:42:57 [notice] 21694: exit
+2016/06/18 14:43:06 [notice] 21714: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:43:06 [notice] 21714: using the "random" user's behaver method
+2016/06/18 14:43:06 [notice] 21714: ntrig/1.0
+2016/06/18 14:43:06 [notice] 21714: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:43:06 [notice] 21714: OS: Linux 3.13.0-55-generic
+2016/06/18 14:43:06 [notice] 21714: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:43:06 [notice] 21714: start virtual processes
+2016/06/18 14:43:06 [notice] 21714: start virtual processes 21719
+2016/06/18 14:43:06 [notice] 21714: start traffic processes
+2016/06/18 14:43:06 [notice] 21714: start traffic process 21720
+2016/06/18 14:43:57 [notice] 21719: signal 15 (SIG15) received, exiting
+2016/06/18 14:43:57 [notice] 21719: exiting
+2016/06/18 14:43:57 [notice] 21719: exit
+2016/06/18 14:43:09 [notice] 21714: signal 15 (SIG15) received, exiting
+2016/06/18 14:43:57 [notice] 21714: signal 17 (SIGCHLD) received
+2016/06/18 14:43:57 [notice] 21714: virtual processes 21719 exited with code 0
+2016/06/18 14:43:57 [notice] 21720: signal 15 (SIG15) received, exiting
+2016/06/18 14:43:57 [notice] 21720: exiting
+2016/06/18 14:43:57 [notice] 21720: exit
+2016/06/18 14:43:57 [notice] 21714: signal 17 (SIGCHLD) received
+2016/06/18 14:43:57 [notice] 21714: traffic process 21720 exited with code 0
+2016/06/18 14:43:57 [notice] 21714: exit
+2016/06/18 14:44:37 [notice] 21735: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:44:37 [notice] 21735: using the "random" user's behaver method
+2016/06/18 14:44:37 [notice] 21735: ntrig/1.0
+2016/06/18 14:44:37 [notice] 21735: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:44:37 [notice] 21735: OS: Linux 3.13.0-55-generic
+2016/06/18 14:44:37 [notice] 21735: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:44:37 [notice] 21735: start virtual processes
+2016/06/18 14:44:37 [notice] 21735: start virtual processes 21740
+2016/06/18 14:44:37 [notice] 21735: start traffic processes
+2016/06/18 14:44:37 [notice] 21735: start traffic process 21741
+2016/06/18 14:44:37 [notice] 21740: signal 15 (SIG15) received, exiting
+2016/06/18 14:44:37 [notice] 21740: exiting
+2016/06/18 14:44:37 [notice] 21740: exit
+2016/06/18 14:44:37 [notice] 21735: signal 15 (SIG15) received, exiting
+2016/06/18 14:44:41 [notice] 21741: signal 15 (SIG15) received, exiting
+2016/06/18 14:44:41 [notice] 21741: exiting
+2016/06/18 14:44:41 [notice] 21741: exit
+2016/06/18 14:44:42 [notice] 21735: signal 17 (SIGCHLD) received
+2016/06/18 14:44:42 [notice] 21735: virtual processes 21740 exited with code 0
+2016/06/18 14:44:42 [notice] 21735: traffic process 21741 exited with code 0
+2016/06/18 14:44:42 [notice] 21735: exit
+2016/06/18 14:47:34 [notice] 21820: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:47:34 [notice] 21820: using the "random" user's behaver method
+2016/06/18 14:47:34 [notice] 21820: ntrig/1.0
+2016/06/18 14:47:34 [notice] 21820: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:47:34 [notice] 21820: OS: Linux 3.13.0-55-generic
+2016/06/18 14:47:34 [notice] 21820: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:47:34 [notice] 21820: start virtual processes
+2016/06/18 14:47:34 [notice] 21820: start virtual processes 21823
+2016/06/18 14:47:34 [notice] 21820: start traffic processes
+2016/06/18 14:47:34 [notice] 21820: start traffic process 21824
+2016/06/18 14:48:05 [notice] 21824: signal 15 (SIG15) received, exiting
+2016/06/18 14:48:05 [notice] 21824: exiting
+2016/06/18 14:47:38 [notice] 21820: signal 15 (SIG15) received, exiting
+2016/06/18 14:48:05 [notice] 21824: exit
+2016/06/18 14:48:05 [notice] 21823: exiting
+2016/06/18 14:48:05 [notice] 21823: exit
+2016/06/18 14:48:06 [notice] 21820: signal 17 (SIGCHLD) received
+2016/06/18 14:48:06 [notice] 21820: virtual processes 21823 exited with code 0
+2016/06/18 14:48:06 [notice] 21820: traffic process 21824 exited with code 0
+2016/06/18 14:48:06 [notice] 21820: exit
+2016/06/18 14:52:19 [notice] 21935: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:52:19 [notice] 21935: using the "random" user's behaver method
+2016/06/18 14:52:19 [notice] 21935: ntrig/1.0
+2016/06/18 14:52:19 [notice] 21935: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:52:19 [notice] 21935: OS: Linux 3.13.0-55-generic
+2016/06/18 14:52:19 [notice] 21935: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:52:19 [notice] 21935: start virtual processes
+2016/06/18 14:52:19 [notice] 21935: start virtual processes 21940
+2016/06/18 14:52:19 [notice] 21935: start traffic processes
+2016/06/18 14:52:19 [notice] 21935: start traffic process 21941
+2016/06/18 14:52:32 [notice] 21941: signal 15 (SIG15) received, exiting
+2016/06/18 14:52:32 [notice] 21941: exiting
+2016/06/18 14:52:23 [notice] 21935: signal 15 (SIG15) received, exiting
+2016/06/18 14:52:33 [notice] 21940: exiting
+2016/06/18 14:52:33 [notice] 21940: exit
+2016/06/18 14:52:33 [notice] 21935: signal 17 (SIGCHLD) received
+2016/06/18 14:52:32 [notice] 21941: exit
+2016/06/18 14:52:33 [notice] 21935: virtual processes 21940 exited with code 0
+2016/06/18 14:52:33 [notice] 21935: signal 17 (SIGCHLD) received
+2016/06/18 14:52:33 [notice] 21935: traffic process 21941 exited with code 0
+2016/06/18 14:52:33 [notice] 21935: exit
+2016/06/18 14:53:52 [notice] 21980: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 14:53:52 [notice] 21980: using the "random" user's behaver method
+2016/06/18 14:53:52 [notice] 21980: ntrig/1.0
+2016/06/18 14:53:52 [notice] 21980: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 14:53:52 [notice] 21980: OS: Linux 3.13.0-55-generic
+2016/06/18 14:53:52 [notice] 21980: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 14:53:52 [notice] 21980: start virtual processes
+2016/06/18 14:53:52 [notice] 21980: start virtual processes 21985
+2016/06/18 14:53:52 [notice] 21980: start traffic processes
+2016/06/18 14:53:52 [notice] 21980: start traffic process 21986
+2016/06/18 14:53:59 [notice] 21986: signal 15 (SIG15) received, exiting
+2016/06/18 14:53:59 [notice] 21986: exiting
+2016/06/18 14:53:59 [notice] 21986: exit
+2016/06/18 14:53:55 [notice] 21980: signal 15 (SIG15) received, exiting
+2016/06/18 14:53:55 [notice] 21980: signal 17 (SIGCHLD) received
+2016/06/18 14:53:55 [notice] 21980: traffic process 21986 exited with code 0
+2016/06/18 14:53:58 [notice] 21985: signal 15 (SIG15) received, exiting
+2016/06/18 14:53:58 [notice] 21985: exiting
+2016/06/18 14:53:58 [notice] 21985: exit
+2016/06/18 14:53:59 [notice] 21980: signal 17 (SIGCHLD) received
+2016/06/18 14:53:59 [notice] 21980: virtual processes 21985 exited with code 0
+2016/06/18 14:53:59 [notice] 21980: exit
+2016/06/18 15:01:59 [notice] 22199: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:01:59 [notice] 22199: using the "random" user's behaver method
+2016/06/18 15:01:59 [notice] 22199: ntrig/1.0
+2016/06/18 15:01:59 [notice] 22199: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:01:59 [notice] 22199: OS: Linux 3.13.0-55-generic
+2016/06/18 15:01:59 [notice] 22199: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:01:59 [notice] 22199: start virtual processes
+2016/06/18 15:01:59 [notice] 22199: start virtual processes 22200
+2016/06/18 15:01:59 [notice] 22199: start traffic processes
+2016/06/18 15:01:59 [notice] 22199: start traffic process 22201
+2016/06/18 15:02:04 [notice] 22200: signal 15 (SIG15) received, exiting
+2016/06/18 15:02:04 [notice] 22200: exiting
+2016/06/18 15:02:04 [notice] 22200: exit
+2016/06/18 15:02:03 [notice] 22199: signal 15 (SIG15) received, exiting
+2016/06/18 15:02:07 [notice] 22199: signal 17 (SIGCHLD) received
+2016/06/18 15:02:07 [notice] 22199: virtual processes 22200 exited with code 0
+2016/06/18 15:02:06 [notice] 22201: signal 15 (SIG15) received, exiting
+2016/06/18 15:02:06 [notice] 22201: exiting
+2016/06/18 15:02:06 [notice] 22201: exit
+2016/06/18 15:02:07 [notice] 22199: signal 17 (SIGCHLD) received
+2016/06/18 15:02:07 [notice] 22199: traffic process 22201 exited with code 0
+2016/06/18 15:02:07 [notice] 22199: exit
+2016/06/18 15:13:02 [notice] 22333: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:13:02 [notice] 22333: using the "random" user's behaver method
+2016/06/18 15:13:02 [notice] 22333: ntrig/1.0
+2016/06/18 15:13:02 [notice] 22333: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:13:02 [notice] 22333: OS: Linux 3.13.0-55-generic
+2016/06/18 15:13:02 [notice] 22333: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:13:02 [notice] 22333: start virtual processes
+2016/06/18 15:13:02 [notice] 22333: start virtual processes 22337
+2016/06/18 15:13:02 [notice] 22333: start traffic processes
+2016/06/18 15:13:02 [notice] 22333: start traffic process 22338
+2016/06/18 15:13:02 [notice] 22337: signal 15 (SIG15) received, exiting
+2016/06/18 15:13:02 [notice] 22337: exiting
+2016/06/18 15:13:02 [notice] 22337: exit
+2016/06/18 15:13:02 [notice] 22333: signal 15 (SIG15) received, exiting
+2016/06/18 15:13:11 [notice] 22333: signal 17 (SIGCHLD) received
+2016/06/18 15:13:11 [notice] 22333: virtual processes 22337 exited with code 0
+2016/06/18 15:13:10 [notice] 22338: signal 15 (SIG15) received, exiting
+2016/06/18 15:13:10 [notice] 22338: exiting
+2016/06/18 15:13:10 [notice] 22338: exit
+2016/06/18 15:13:11 [notice] 22333: signal 17 (SIGCHLD) received
+2016/06/18 15:13:11 [notice] 22333: traffic process 22338 exited with code 0
+2016/06/18 15:13:11 [notice] 22333: exit
+2016/06/18 15:16:24 [notice] 22443: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:16:24 [notice] 22443: using the "random" user's behaver method
+2016/06/18 15:16:24 [notice] 22443: ntrig/1.0
+2016/06/18 15:16:24 [notice] 22443: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:16:24 [notice] 22443: OS: Linux 3.13.0-55-generic
+2016/06/18 15:16:24 [notice] 22443: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:16:24 [notice] 22443: start virtual processes
+2016/06/18 15:16:24 [notice] 22443: start virtual processes 22448
+2016/06/18 15:16:24 [notice] 22443: start traffic processes
+2016/06/18 15:16:24 [notice] 22443: start traffic process 22449
+2016/06/18 15:16:24 [notice] 22443: signal 17 (SIGCHLD) received
+2016/06/18 15:16:24 [alert] 22443: traffic process 22449 exited on signal 11 (core dumped)
+2016/06/18 15:16:24 [notice] 22443: start traffic process 22454
+2016/06/18 15:16:28 [notice] 22448: signal 15 (SIG15) received, exiting
+2016/06/18 15:16:28 [notice] 22448: exiting
+2016/06/18 15:16:28 [notice] 22448: exit
+2016/06/18 15:16:28 [notice] 22443: signal 15 (SIG15) received, exiting
+2016/06/18 15:16:31 [notice] 22454: signal 15 (SIG15) received, exiting
+2016/06/18 15:16:31 [notice] 22454: exiting
+2016/06/18 15:16:31 [notice] 22454: exit
+2016/06/18 15:16:31 [notice] 22443: signal 17 (SIGCHLD) received
+2016/06/18 15:16:31 [notice] 22443: traffic process 22454 exited with code 0
+2016/06/18 15:16:31 [notice] 22443: signal 17 (SIGCHLD) received
+2016/06/18 15:16:31 [notice] 22443: virtual processes 22448 exited with code 0
+2016/06/18 15:16:31 [notice] 22443: exit
+2016/06/18 15:16:32 [notice] 22464: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:16:32 [notice] 22464: using the "random" user's behaver method
+2016/06/18 15:16:32 [notice] 22464: ntrig/1.0
+2016/06/18 15:16:32 [notice] 22464: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:16:32 [notice] 22464: OS: Linux 3.13.0-55-generic
+2016/06/18 15:16:32 [notice] 22464: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:16:32 [notice] 22464: start virtual processes
+2016/06/18 15:16:32 [notice] 22464: start virtual processes 22469
+2016/06/18 15:16:32 [notice] 22464: start traffic processes
+2016/06/18 15:16:32 [notice] 22464: start traffic process 22470
+2016/06/18 15:16:42 [notice] 22470: signal 15 (SIG15) received, exiting
+2016/06/18 15:16:42 [notice] 22470: exiting
+2016/06/18 15:16:42 [notice] 22470: exit
+2016/06/18 15:16:36 [notice] 22464: signal 15 (SIG15) received, exiting
+2016/06/18 15:16:40 [notice] 22469: signal 15 (SIG15) received, exiting
+2016/06/18 15:16:40 [notice] 22469: exiting
+2016/06/18 15:16:40 [notice] 22469: exit
+2016/06/18 15:16:43 [notice] 22464: signal 17 (SIGCHLD) received
+2016/06/18 15:16:43 [notice] 22464: virtual processes 22469 exited with code 0
+2016/06/18 15:16:43 [notice] 22464: signal 17 (SIGCHLD) received
+2016/06/18 15:16:43 [notice] 22464: traffic process 22470 exited with code 0
+2016/06/18 15:16:43 [notice] 22464: exit
+2016/06/18 15:24:26 [notice] 22582: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:24:26 [notice] 22582: using the "random" user's behaver method
+2016/06/18 15:24:26 [notice] 22582: ntrig/1.0
+2016/06/18 15:24:26 [notice] 22582: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:24:26 [notice] 22582: OS: Linux 3.13.0-55-generic
+2016/06/18 15:24:26 [notice] 22582: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:24:26 [notice] 22582: start virtual processes
+2016/06/18 15:24:26 [notice] 22582: start virtual processes 22587
+2016/06/18 15:24:26 [notice] 22582: start traffic processes
+2016/06/18 15:24:26 [notice] 22582: start traffic process 22588
+2016/06/18 15:24:26 [notice] 22582: signal 17 (SIGCHLD) received
+2016/06/18 15:24:26 [alert] 22582: traffic process 22588 exited on signal 11 (core dumped)
+2016/06/18 15:24:26 [notice] 22582: start traffic process 22592
+2016/06/18 15:24:28 [notice] 22587: signal 15 (SIG15) received, exiting
+2016/06/18 15:24:28 [notice] 22587: exiting
+2016/06/18 15:24:28 [notice] 22587: exit
+2016/06/18 15:24:28 [notice] 22582: signal 15 (SIG15) received, exiting
+2016/06/18 15:24:30 [notice] 22582: signal 17 (SIGCHLD) received
+2016/06/18 15:24:30 [notice] 22582: virtual processes 22587 exited with code 0
+2016/06/18 15:24:30 [notice] 22592: signal 15 (SIG15) received, exiting
+2016/06/18 15:24:30 [notice] 22592: exiting
+2016/06/18 15:24:30 [notice] 22592: exit
+2016/06/18 15:24:30 [notice] 22582: signal 17 (SIGCHLD) received
+2016/06/18 15:24:30 [notice] 22582: traffic process 22592 exited with code 0
+2016/06/18 15:24:30 [notice] 22582: exit
+2016/06/18 15:24:33 [notice] 22601: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:24:33 [notice] 22601: using the "random" user's behaver method
+2016/06/18 15:24:33 [notice] 22601: ntrig/1.0
+2016/06/18 15:24:33 [notice] 22601: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:24:33 [notice] 22601: OS: Linux 3.13.0-55-generic
+2016/06/18 15:24:33 [notice] 22601: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:24:33 [notice] 22601: start virtual processes
+2016/06/18 15:24:33 [notice] 22601: start virtual processes 22606
+2016/06/18 15:24:33 [notice] 22601: start traffic processes
+2016/06/18 15:24:33 [notice] 22601: start traffic process 22607
+2016/06/18 15:24:51 [notice] 22607: signal 15 (SIG15) received, exiting
+2016/06/18 15:24:51 [notice] 22607: exiting
+2016/06/18 15:24:50 [notice] 22606: signal 15 (SIG15) received, exiting
+2016/06/18 15:24:50 [notice] 22606: exiting
+2016/06/18 15:24:50 [notice] 22606: exit
+2016/06/18 15:24:51 [notice] 22607: exit
+2016/06/18 15:24:34 [notice] 22601: signal 15 (SIG15) received, exiting
+2016/06/18 15:24:51 [notice] 22601: signal 17 (SIGCHLD) received
+2016/06/18 15:24:51 [notice] 22601: virtual processes 22606 exited with code 0
+2016/06/18 15:24:51 [notice] 22601: traffic process 22607 exited with code 0
+2016/06/18 15:24:51 [notice] 22601: exit
+2016/06/18 15:26:32 [notice] 22627: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:26:32 [notice] 22627: using the "random" user's behaver method
+2016/06/18 15:26:32 [notice] 22627: ntrig/1.0
+2016/06/18 15:26:32 [notice] 22627: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:26:32 [notice] 22627: OS: Linux 3.13.0-55-generic
+2016/06/18 15:26:32 [notice] 22627: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:26:32 [notice] 22627: start virtual processes
+2016/06/18 15:26:32 [notice] 22627: start virtual processes 22632
+2016/06/18 15:26:32 [notice] 22627: start traffic processes
+2016/06/18 15:26:32 [notice] 22627: start traffic process 22633
+2016/06/18 15:26:43 [notice] 22633: signal 15 (SIG15) received, exiting
+2016/06/18 15:26:43 [notice] 22633: exiting
+2016/06/18 15:26:42 [notice] 22632: signal 15 (SIG15) received, exiting
+2016/06/18 15:26:42 [notice] 22632: exiting
+2016/06/18 15:26:42 [notice] 22632: exit
+2016/06/18 15:26:43 [notice] 22633: exit
+2016/06/18 15:26:34 [notice] 22627: signal 15 (SIG15) received, exiting
+2016/06/18 15:26:34 [notice] 22627: signal 17 (SIGCHLD) received
+2016/06/18 15:26:34 [notice] 22627: virtual processes 22632 exited with code 0
+2016/06/18 15:26:44 [notice] 22627: signal 17 (SIGCHLD) received
+2016/06/18 15:26:44 [notice] 22627: traffic process 22633 exited with code 0
+2016/06/18 15:26:44 [notice] 22627: exit
+2016/06/18 15:26:47 [notice] 22641: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:26:47 [notice] 22641: using the "random" user's behaver method
+2016/06/18 15:26:47 [notice] 22641: ntrig/1.0
+2016/06/18 15:26:47 [notice] 22641: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:26:47 [notice] 22641: OS: Linux 3.13.0-55-generic
+2016/06/18 15:26:47 [notice] 22641: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:26:47 [notice] 22641: start virtual processes
+2016/06/18 15:26:47 [notice] 22641: start virtual processes 22647
+2016/06/18 15:26:47 [notice] 22641: start traffic processes
+2016/06/18 15:26:47 [notice] 22641: start traffic process 22648
+2016/06/18 15:27:11 [notice] 22648: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:11 [notice] 22648: exiting
+2016/06/18 15:27:10 [notice] 22647: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:10 [notice] 22647: exiting
+2016/06/18 15:27:10 [notice] 22647: exit
+2016/06/18 15:27:11 [notice] 22648: exit
+2016/06/18 15:26:49 [notice] 22641: signal 15 (SIG15) received, exiting
+2016/06/18 15:26:49 [notice] 22641: signal 17 (SIGCHLD) received
+2016/06/18 15:26:49 [notice] 22641: virtual processes 22647 exited with code 0
+2016/06/18 15:27:12 [notice] 22641: signal 17 (SIGCHLD) received
+2016/06/18 15:27:12 [notice] 22641: traffic process 22648 exited with code 0
+2016/06/18 15:27:12 [notice] 22641: exit
+2016/06/18 15:27:16 [notice] 22659: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:27:16 [notice] 22659: using the "random" user's behaver method
+2016/06/18 15:27:16 [notice] 22659: ntrig/1.0
+2016/06/18 15:27:16 [notice] 22659: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:27:16 [notice] 22659: OS: Linux 3.13.0-55-generic
+2016/06/18 15:27:16 [notice] 22659: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:27:16 [notice] 22659: start virtual processes
+2016/06/18 15:27:16 [notice] 22659: start virtual processes 22664
+2016/06/18 15:27:16 [notice] 22659: start traffic processes
+2016/06/18 15:27:16 [notice] 22659: start traffic process 22665
+2016/06/18 15:27:16 [notice] 22659: signal 17 (SIGCHLD) received
+2016/06/18 15:27:16 [alert] 22659: traffic process 22665 exited on signal 11 (core dumped)
+2016/06/18 15:27:16 [notice] 22659: start traffic process 22669
+2016/06/18 15:27:19 [notice] 22664: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:19 [notice] 22664: exiting
+2016/06/18 15:27:19 [notice] 22664: exit
+2016/06/18 15:27:19 [notice] 22659: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:26 [notice] 22669: exiting
+2016/06/18 15:27:26 [notice] 22669: exit
+2016/06/18 15:27:26 [notice] 22659: signal 17 (SIGCHLD) received
+2016/06/18 15:27:26 [notice] 22659: traffic process 22669 exited with code 0
+2016/06/18 15:27:26 [notice] 22659: signal 17 (SIGCHLD) received
+2016/06/18 15:27:26 [notice] 22659: virtual processes 22664 exited with code 0
+2016/06/18 15:27:26 [notice] 22659: exit
+2016/06/18 15:27:36 [notice] 22678: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:27:36 [notice] 22678: using the "random" user's behaver method
+2016/06/18 15:27:36 [notice] 22678: ntrig/1.0
+2016/06/18 15:27:36 [notice] 22678: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:27:36 [notice] 22678: OS: Linux 3.13.0-55-generic
+2016/06/18 15:27:36 [notice] 22678: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:27:36 [notice] 22678: start virtual processes
+2016/06/18 15:27:36 [notice] 22678: start virtual processes 22683
+2016/06/18 15:27:36 [notice] 22678: start traffic processes
+2016/06/18 15:27:36 [notice] 22678: start traffic process 22684
+2016/06/18 15:27:53 [notice] 22684: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:53 [notice] 22684: exiting
+2016/06/18 15:27:53 [notice] 22684: exit
+2016/06/18 15:27:39 [notice] 22678: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:53 [notice] 22683: signal 15 (SIG15) received, exiting
+2016/06/18 15:27:53 [notice] 22683: exiting
+2016/06/18 15:27:53 [notice] 22683: exit
+2016/06/18 15:27:54 [notice] 22678: signal 17 (SIGCHLD) received
+2016/06/18 15:27:54 [notice] 22678: virtual processes 22683 exited with code 0
+2016/06/18 15:27:54 [notice] 22678: signal 17 (SIGCHLD) received
+2016/06/18 15:27:54 [notice] 22678: traffic process 22684 exited with code 0
+2016/06/18 15:27:54 [notice] 22678: exit
+2016/06/18 15:35:28 [notice] 22862: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:35:28 [notice] 22862: using the "random" user's behaver method
+2016/06/18 15:35:28 [notice] 22862: ntrig/1.0
+2016/06/18 15:35:28 [notice] 22862: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:35:28 [notice] 22862: OS: Linux 3.13.0-55-generic
+2016/06/18 15:35:28 [notice] 22862: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:35:28 [notice] 22862: start virtual processes
+2016/06/18 15:35:28 [notice] 22862: start virtual processes 22865
+2016/06/18 15:35:28 [notice] 22862: start traffic processes
+2016/06/18 15:35:28 [notice] 22862: start traffic process 22866
+2016/06/18 15:35:28 [notice] 22862: signal 17 (SIGCHLD) received
+2016/06/18 15:35:28 [alert] 22862: traffic process 22866 exited on signal 11 (core dumped)
+2016/06/18 15:35:28 [notice] 22862: start traffic process 22874
+2016/06/18 15:35:30 [notice] 22865: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:30 [notice] 22865: exiting
+2016/06/18 15:35:30 [notice] 22865: exit
+2016/06/18 15:35:30 [notice] 22862: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:33 [notice] 22874: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:33 [notice] 22874: exiting
+2016/06/18 15:35:33 [notice] 22874: exit
+2016/06/18 15:35:33 [notice] 22862: signal 17 (SIGCHLD) received
+2016/06/18 15:35:33 [notice] 22862: traffic process 22874 exited with code 0
+2016/06/18 15:35:33 [notice] 22862: signal 17 (SIGCHLD) received
+2016/06/18 15:35:33 [notice] 22862: virtual processes 22865 exited with code 0
+2016/06/18 15:35:33 [notice] 22862: exit
+2016/06/18 15:35:38 [notice] 22882: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:35:38 [notice] 22882: using the "random" user's behaver method
+2016/06/18 15:35:38 [notice] 22882: ntrig/1.0
+2016/06/18 15:35:38 [notice] 22882: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:35:38 [notice] 22882: OS: Linux 3.13.0-55-generic
+2016/06/18 15:35:38 [notice] 22882: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:35:38 [notice] 22882: start virtual processes
+2016/06/18 15:35:38 [notice] 22882: start virtual processes 22887
+2016/06/18 15:35:38 [notice] 22882: start traffic processes
+2016/06/18 15:35:38 [notice] 22882: start traffic process 22888
+2016/06/18 15:35:42 [notice] 22882: signal 17 (SIGCHLD) received
+2016/06/18 15:35:42 [alert] 22882: traffic process 22888 exited on signal 11 (core dumped)
+2016/06/18 15:35:42 [notice] 22882: start traffic process 22892
+2016/06/18 15:35:42 [notice] 22887: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:42 [notice] 22887: exiting
+2016/06/18 15:35:42 [notice] 22887: exit
+2016/06/18 15:35:42 [notice] 22882: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:44 [notice] 22892: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:44 [notice] 22892: exiting
+2016/06/18 15:35:44 [notice] 22892: exit
+2016/06/18 15:35:44 [notice] 22882: signal 17 (SIGCHLD) received
+2016/06/18 15:35:44 [notice] 22882: virtual processes 22887 exited with code 0
+2016/06/18 15:35:44 [notice] 22882: signal 17 (SIGCHLD) received
+2016/06/18 15:35:44 [notice] 22882: traffic process 22892 exited with code 0
+2016/06/18 15:35:44 [notice] 22882: exit
+2016/06/18 15:35:47 [notice] 22899: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:35:47 [notice] 22899: using the "random" user's behaver method
+2016/06/18 15:35:47 [notice] 22899: ntrig/1.0
+2016/06/18 15:35:47 [notice] 22899: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:35:47 [notice] 22899: OS: Linux 3.13.0-55-generic
+2016/06/18 15:35:47 [notice] 22899: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:35:47 [notice] 22899: start virtual processes
+2016/06/18 15:35:47 [notice] 22899: start virtual processes 22904
+2016/06/18 15:35:47 [notice] 22899: start traffic processes
+2016/06/18 15:35:47 [notice] 22899: start traffic process 22905
+2016/06/18 15:35:47 [notice] 22899: signal 17 (SIGCHLD) received
+2016/06/18 15:35:47 [alert] 22899: traffic process 22905 exited on signal 11 (core dumped)
+2016/06/18 15:35:47 [notice] 22899: start traffic process 22909
+2016/06/18 15:35:49 [notice] 22904: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:49 [notice] 22904: exiting
+2016/06/18 15:35:49 [notice] 22904: exit
+2016/06/18 15:35:49 [notice] 22899: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:51 [notice] 22899: signal 17 (SIGCHLD) received
+2016/06/18 15:35:51 [notice] 22899: virtual processes 22904 exited with code 0
+2016/06/18 15:35:51 [notice] 22909: signal 15 (SIG15) received, exiting
+2016/06/18 15:35:51 [notice] 22909: exiting
+2016/06/18 15:35:51 [notice] 22909: exit
+2016/06/18 15:35:51 [notice] 22899: signal 17 (SIGCHLD) received
+2016/06/18 15:35:51 [notice] 22899: traffic process 22909 exited with code 0
+2016/06/18 15:35:51 [notice] 22899: exit
+2016/06/18 15:35:58 [notice] 22916: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:35:58 [notice] 22916: using the "random" user's behaver method
+2016/06/18 15:35:58 [notice] 22916: ntrig/1.0
+2016/06/18 15:35:58 [notice] 22916: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:35:58 [notice] 22916: OS: Linux 3.13.0-55-generic
+2016/06/18 15:35:58 [notice] 22916: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:35:58 [notice] 22916: start virtual processes
+2016/06/18 15:35:58 [notice] 22916: start virtual processes 22920
+2016/06/18 15:35:58 [notice] 22916: start traffic processes
+2016/06/18 15:35:58 [notice] 22916: start traffic process 22921
+2016/06/18 15:36:06 [notice] 22921: signal 15 (SIG15) received, exiting
+2016/06/18 15:36:06 [notice] 22921: exiting
+2016/06/18 15:36:06 [notice] 22921: exit
+2016/06/18 15:36:00 [notice] 22916: signal 15 (SIG15) received, exiting
+2016/06/18 15:36:03 [notice] 22920: signal 15 (SIG15) received, exiting
+2016/06/18 15:36:03 [notice] 22920: exiting
+2016/06/18 15:36:03 [notice] 22920: exit
+2016/06/18 15:36:06 [notice] 22916: signal 17 (SIGCHLD) received
+2016/06/18 15:36:06 [notice] 22916: virtual processes 22920 exited with code 0
+2016/06/18 15:36:06 [notice] 22916: signal 17 (SIGCHLD) received
+2016/06/18 15:36:06 [notice] 22916: traffic process 22921 exited with code 0
+2016/06/18 15:36:06 [notice] 22916: exit
+2016/06/18 15:44:30 [notice] 23053: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:44:30 [notice] 23053: using the "random" user's behaver method
+2016/06/18 15:44:30 [notice] 23053: ntrig/1.0
+2016/06/18 15:44:30 [notice] 23053: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:44:30 [notice] 23053: OS: Linux 3.13.0-55-generic
+2016/06/18 15:44:30 [notice] 23053: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:44:30 [notice] 23053: start virtual processes
+2016/06/18 15:44:30 [notice] 23053: start virtual processes 23059
+2016/06/18 15:44:30 [notice] 23053: start traffic processes
+2016/06/18 15:44:30 [notice] 23053: start traffic process 23060
+2016/06/18 15:44:47 [notice] 23059: signal 15 (SIG15) received, exiting
+2016/06/18 15:44:47 [notice] 23059: exiting
+2016/06/18 15:44:47 [notice] 23059: exit
+2016/06/18 15:44:35 [notice] 23053: signal 15 (SIG15) received, exiting
+2016/06/18 15:44:47 [notice] 23060: signal 15 (SIG15) received, exiting
+2016/06/18 15:44:47 [notice] 23060: exiting
+2016/06/18 15:44:47 [notice] 23053: signal 17 (SIGCHLD) received
+2016/06/18 15:44:47 [notice] 23053: virtual processes 23059 exited with code 0
+2016/06/18 15:44:47 [notice] 23060: exit
+2016/06/18 15:44:47 [notice] 23053: signal 17 (SIGCHLD) received
+2016/06/18 15:44:47 [notice] 23053: traffic process 23060 exited with code 0
+2016/06/18 15:44:47 [notice] 23053: exit
+2016/06/18 15:55:00 [notice] 23254: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:55:00 [notice] 23254: using the "random" user's behaver method
+2016/06/18 15:55:00 [notice] 23254: ntrig/1.0
+2016/06/18 15:55:00 [notice] 23254: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:55:00 [notice] 23254: OS: Linux 3.13.0-55-generic
+2016/06/18 15:55:00 [notice] 23254: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:55:00 [notice] 23254: start virtual processes
+2016/06/18 15:55:00 [notice] 23254: start virtual processes 23257
+2016/06/18 15:55:00 [notice] 23254: start traffic processes
+2016/06/18 15:55:00 [notice] 23254: start traffic process 23258
+2016/06/18 15:55:00 [notice] 23254: signal 17 (SIGCHLD) received
+2016/06/18 15:55:00 [alert] 23254: traffic process 23258 exited on signal 11 (core dumped)
+2016/06/18 15:55:00 [notice] 23254: start traffic process 23264
+2016/06/18 15:55:05 [notice] 23264: signal 15 (SIG15) received, exiting
+2016/06/18 15:55:05 [notice] 23264: exiting
+2016/06/18 15:55:05 [notice] 23264: exit
+2016/06/18 15:55:03 [notice] 23257: signal 15 (SIG15) received, exiting
+2016/06/18 15:55:03 [notice] 23257: exiting
+2016/06/18 15:55:03 [notice] 23257: exit
+2016/06/18 15:55:03 [notice] 23254: signal 15 (SIG15) received, exiting
+2016/06/18 15:55:03 [notice] 23254: signal 17 (SIGCHLD) received
+2016/06/18 15:55:03 [notice] 23254: traffic process 23264 exited with code 0
+2016/06/18 15:55:06 [notice] 23254: signal 17 (SIGCHLD) received
+2016/06/18 15:55:06 [notice] 23254: virtual processes 23257 exited with code 0
+2016/06/18 15:55:06 [notice] 23254: exit
+2016/06/18 15:55:08 [notice] 23273: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 15:55:08 [notice] 23273: using the "random" user's behaver method
+2016/06/18 15:55:08 [notice] 23273: ntrig/1.0
+2016/06/18 15:55:08 [notice] 23273: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 15:55:08 [notice] 23273: OS: Linux 3.13.0-55-generic
+2016/06/18 15:55:08 [notice] 23273: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 15:55:08 [notice] 23273: start virtual processes
+2016/06/18 15:55:08 [notice] 23273: start virtual processes 23277
+2016/06/18 15:55:08 [notice] 23273: start traffic processes
+2016/06/18 15:55:08 [notice] 23273: start traffic process 23278
+2016/06/18 15:55:33 [notice] 23277: signal 15 (SIG15) received, exiting
+2016/06/18 15:55:33 [notice] 23277: exiting
+2016/06/18 15:55:33 [notice] 23277: exit
+2016/06/18 15:55:11 [notice] 23273: signal 15 (SIG15) received, exiting
+2016/06/18 15:55:35 [notice] 23273: signal 17 (SIGCHLD) received
+2016/06/18 15:55:35 [notice] 23273: virtual processes 23277 exited with code 0
+2016/06/18 15:55:34 [notice] 23278: signal 15 (SIG15) received, exiting
+2016/06/18 15:55:34 [notice] 23278: exiting
+2016/06/18 15:55:34 [notice] 23278: exit
+2016/06/18 15:55:35 [notice] 23273: signal 17 (SIGCHLD) received
+2016/06/18 15:55:35 [notice] 23273: traffic process 23278 exited with code 0
+2016/06/18 15:55:35 [notice] 23273: exit
+2016/06/18 16:00:14 [notice] 23401: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:00:14 [notice] 23401: using the "random" user's behaver method
+2016/06/18 16:00:14 [notice] 23401: ntrig/1.0
+2016/06/18 16:00:14 [notice] 23401: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:00:14 [notice] 23401: OS: Linux 3.13.0-55-generic
+2016/06/18 16:00:14 [notice] 23401: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:00:14 [notice] 23401: start virtual processes
+2016/06/18 16:00:14 [notice] 23401: start virtual processes 23405
+2016/06/18 16:00:14 [notice] 23401: start traffic processes
+2016/06/18 16:00:14 [notice] 23401: start traffic process 23406
+2016/06/18 16:00:19 [notice] 23401: signal 15 (SIG15) received, exiting
+2016/06/18 16:01:53 [notice] 23405: signal 15 (SIG15) received, exiting
+2016/06/18 16:01:53 [notice] 23405: exiting
+2016/06/18 16:01:53 [notice] 23405: exit
+2016/06/18 16:01:53 [notice] 23401: signal 17 (SIGCHLD) received
+2016/06/18 16:01:53 [notice] 23401: virtual processes 23405 exited with code 0
+2016/06/18 16:01:53 [notice] 23406: signal 15 (SIG15) received, exiting
+2016/06/18 16:01:53 [notice] 23406: exiting
+2016/06/18 16:01:53 [notice] 23406: exit
+2016/06/18 16:01:53 [notice] 23401: signal 17 (SIGCHLD) received
+2016/06/18 16:01:53 [notice] 23401: traffic process 23406 exited with code 0
+2016/06/18 16:01:53 [notice] 23401: exit
+2016/06/18 16:03:56 [notice] 23598: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:03:56 [notice] 23598: using the "random" user's behaver method
+2016/06/18 16:03:56 [notice] 23598: ntrig/1.0
+2016/06/18 16:03:56 [notice] 23598: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:03:56 [notice] 23598: OS: Linux 3.13.0-55-generic
+2016/06/18 16:03:56 [notice] 23598: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:03:56 [notice] 23598: start virtual processes
+2016/06/18 16:03:56 [notice] 23598: start virtual processes 23603
+2016/06/18 16:03:56 [notice] 23598: start traffic processes
+2016/06/18 16:03:56 [notice] 23598: start traffic process 23604
+2016/06/18 16:04:11 [notice] 23604: signal 15 (SIG15) received, exiting
+2016/06/18 16:04:11 [notice] 23604: exiting
+2016/06/18 16:04:11 [notice] 23604: exit
+2016/06/18 16:04:12 [notice] 23603: signal 15 (SIG15) received, exiting
+2016/06/18 16:04:12 [notice] 23603: exiting
+2016/06/18 16:04:12 [notice] 23603: exit
+2016/06/18 16:04:04 [notice] 23598: signal 15 (SIG15) received, exiting
+2016/06/18 16:04:12 [notice] 23598: signal 17 (SIGCHLD) received
+2016/06/18 16:04:12 [notice] 23598: virtual processes 23603 exited with code 0
+2016/06/18 16:04:12 [notice] 23598: traffic process 23604 exited with code 0
+2016/06/18 16:04:12 [notice] 23598: exit
+2016/06/18 16:05:24 [notice] 23776: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:05:24 [notice] 23776: using the "random" user's behaver method
+2016/06/18 16:05:24 [notice] 23776: ntrig/1.0
+2016/06/18 16:05:24 [notice] 23776: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:05:24 [notice] 23776: OS: Linux 3.13.0-55-generic
+2016/06/18 16:05:24 [notice] 23776: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:05:24 [notice] 23776: start virtual processes
+2016/06/18 16:05:24 [notice] 23776: start virtual processes 23781
+2016/06/18 16:05:24 [notice] 23776: start traffic processes
+2016/06/18 16:05:24 [notice] 23776: start traffic process 23782
+2016/06/18 16:05:31 [notice] 23781: signal 15 (SIG15) received, exiting
+2016/06/18 16:05:31 [notice] 23781: exiting
+2016/06/18 16:05:31 [notice] 23781: exit
+2016/06/18 16:05:26 [notice] 23776: signal 15 (SIG15) received, exiting
+2016/06/18 16:05:32 [notice] 23776: signal 17 (SIGCHLD) received
+2016/06/18 16:05:32 [notice] 23776: virtual processes 23781 exited with code 0
+2016/06/18 16:05:32 [notice] 23782: signal 15 (SIG15) received, exiting
+2016/06/18 16:05:32 [notice] 23782: exiting
+2016/06/18 16:05:32 [notice] 23782: exit
+2016/06/18 16:05:32 [notice] 23776: signal 17 (SIGCHLD) received
+2016/06/18 16:05:32 [notice] 23776: traffic process 23782 exited with code 0
+2016/06/18 16:05:32 [notice] 23776: exit
+2016/06/18 16:10:16 [notice] 23912: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:10:16 [notice] 23912: using the "random" user's behaver method
+2016/06/18 16:10:16 [notice] 23912: ntrig/1.0
+2016/06/18 16:10:16 [notice] 23912: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:10:16 [notice] 23912: OS: Linux 3.13.0-55-generic
+2016/06/18 16:10:16 [notice] 23912: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:10:16 [notice] 23912: start virtual processes
+2016/06/18 16:10:16 [notice] 23912: start virtual processes 23915
+2016/06/18 16:10:16 [notice] 23912: start traffic processes
+2016/06/18 16:10:16 [notice] 23912: start traffic process 23916
+2016/06/18 16:10:24 [notice] 23916: signal 15 (SIG15) received, exiting
+2016/06/18 16:10:24 [notice] 23916: exiting
+2016/06/18 16:10:24 [notice] 23916: exit
+2016/06/18 16:10:24 [notice] 23915: signal 15 (SIG15) received, exiting
+2016/06/18 16:10:24 [notice] 23915: exiting
+2016/06/18 16:10:24 [notice] 23915: exit
+2016/06/18 16:10:20 [notice] 23912: signal 15 (SIG15) received, exiting
+2016/06/18 16:10:25 [notice] 23912: signal 17 (SIGCHLD) received
+2016/06/18 16:10:25 [notice] 23912: virtual processes 23915 exited with code 0
+2016/06/18 16:10:25 [notice] 23912: signal 17 (SIGCHLD) received
+2016/06/18 16:10:25 [notice] 23912: traffic process 23916 exited with code 0
+2016/06/18 16:10:25 [notice] 23912: exit
+2016/06/18 16:12:19 [notice] 24093: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:12:19 [notice] 24093: using the "random" user's behaver method
+2016/06/18 16:12:19 [notice] 24093: ntrig/1.0
+2016/06/18 16:12:19 [notice] 24093: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:12:19 [notice] 24093: OS: Linux 3.13.0-55-generic
+2016/06/18 16:12:19 [notice] 24093: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:12:19 [notice] 24093: start virtual processes
+2016/06/18 16:12:19 [notice] 24093: start virtual processes 24098
+2016/06/18 16:12:19 [notice] 24093: start traffic processes
+2016/06/18 16:12:19 [notice] 24093: start traffic process 24099
+2016/06/18 16:12:24 [notice] 24099: signal 15 (SIG15) received, exiting
+2016/06/18 16:12:24 [notice] 24099: exiting
+2016/06/18 16:12:24 [notice] 24099: exit
+2016/06/18 16:12:24 [notice] 24098: signal 15 (SIG15) received, exiting
+2016/06/18 16:12:24 [notice] 24098: exiting
+2016/06/18 16:12:24 [notice] 24098: exit
+2016/06/18 16:12:22 [notice] 24093: signal 15 (SIG15) received, exiting
+2016/06/18 16:12:22 [notice] 24093: signal 17 (SIGCHLD) received
+2016/06/18 16:12:22 [notice] 24093: traffic process 24099 exited with code 0
+2016/06/18 16:12:25 [notice] 24093: signal 17 (SIGCHLD) received
+2016/06/18 16:12:25 [notice] 24093: virtual processes 24098 exited with code 0
+2016/06/18 16:12:25 [notice] 24093: exit
+2016/06/18 16:23:33 [notice] 24379: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:23:33 [notice] 24379: using the "random" user's behaver method
+2016/06/18 16:23:33 [notice] 24379: ntrig/1.0
+2016/06/18 16:23:33 [notice] 24379: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:23:33 [notice] 24379: OS: Linux 3.13.0-55-generic
+2016/06/18 16:23:33 [notice] 24379: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:23:33 [notice] 24379: start virtual processes
+2016/06/18 16:23:33 [notice] 24379: start virtual processes 24384
+2016/06/18 16:23:33 [notice] 24379: start traffic processes
+2016/06/18 16:23:33 [notice] 24379: start traffic process 24385
+2016/06/18 16:24:24 [notice] 24384: signal 15 (SIG15) received, exiting
+2016/06/18 16:24:24 [notice] 24384: exiting
+2016/06/18 16:24:24 [notice] 24384: exit
+2016/06/18 16:24:19 [notice] 24379: signal 15 (SIG15) received, exiting
+2016/06/18 16:24:25 [notice] 24385: signal 15 (SIG15) received, exiting
+2016/06/18 16:24:25 [notice] 24385: exiting
+2016/06/18 16:24:25 [notice] 24385: exit
+2016/06/18 16:24:25 [notice] 24379: signal 17 (SIGCHLD) received
+2016/06/18 16:24:25 [notice] 24379: traffic process 24385 exited with code 0
+2016/06/18 16:24:25 [notice] 24379: signal 17 (SIGCHLD) received
+2016/06/18 16:24:25 [notice] 24379: virtual processes 24384 exited with code 0
+2016/06/18 16:24:25 [notice] 24379: exit
+2016/06/18 16:29:06 [notice] 24470: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:29:06 [notice] 24470: using the "random" user's behaver method
+2016/06/18 16:29:06 [notice] 24470: ntrig/1.0
+2016/06/18 16:29:06 [notice] 24470: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:29:06 [notice] 24470: OS: Linux 3.13.0-55-generic
+2016/06/18 16:29:06 [notice] 24470: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:29:06 [notice] 24470: start virtual processes
+2016/06/18 16:29:06 [notice] 24470: start virtual processes 24475
+2016/06/18 16:29:06 [notice] 24470: start traffic processes
+2016/06/18 16:29:06 [notice] 24470: start traffic process 24476
+2016/06/18 16:29:42 [notice] 24476: signal 15 (SIG15) received, exiting
+2016/06/18 16:29:42 [notice] 24476: exiting
+2016/06/18 16:29:42 [notice] 24476: exit
+2016/06/18 16:29:41 [notice] 24475: signal 15 (SIG15) received, exiting
+2016/06/18 16:29:41 [notice] 24475: exiting
+2016/06/18 16:29:41 [notice] 24475: exit
+2016/06/18 16:29:40 [notice] 24470: signal 15 (SIG15) received, exiting
+2016/06/18 16:29:40 [notice] 24470: signal 17 (SIGCHLD) received
+2016/06/18 16:29:40 [notice] 24470: virtual processes 24475 exited with code 0
+2016/06/18 16:29:40 [notice] 24470: traffic process 24476 exited with code 0
+2016/06/18 16:29:40 [notice] 24470: exit
+2016/06/18 16:32:55 [notice] 24534: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:32:55 [notice] 24534: using the "random" user's behaver method
+2016/06/18 16:32:55 [notice] 24534: ntrig/1.0
+2016/06/18 16:32:55 [notice] 24534: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:32:55 [notice] 24534: OS: Linux 3.13.0-55-generic
+2016/06/18 16:32:55 [notice] 24534: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:32:55 [notice] 24534: start virtual processes
+2016/06/18 16:32:55 [notice] 24534: start virtual processes 24538
+2016/06/18 16:32:55 [notice] 24534: start traffic processes
+2016/06/18 16:32:55 [notice] 24534: start traffic process 24539
+2016/06/18 16:33:04 [notice] 24534: signal 17 (SIGCHLD) received
+2016/06/18 16:33:04 [alert] 24534: virtual processes 24538 exited on signal 11 (core dumped)
+2016/06/18 16:33:04 [notice] 24534: start virtual processes 24545
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 16:33:04 [notice] 24534: signal 17 (SIGCHLD) received
+2016/06/18 16:33:04 [notice] 24534: virtual processes 24545 exited with code 2
+2016/06/18 16:33:04 [alert] 24534: virtual processes 24545 exited with fatal code 2 and cannot be respawned
+2016/06/18 16:33:04 [notice] 24534: signal 15 (SIG15) received, exiting
+2016/06/18 16:33:14 [notice] 24539: signal 15 (SIG15) received, exiting
+2016/06/18 16:33:14 [notice] 24539: exiting
+2016/06/18 16:33:14 [notice] 24539: exit
+2016/06/18 16:33:15 [notice] 24534: signal 17 (SIGCHLD) received
+2016/06/18 16:33:15 [notice] 24534: traffic process 24539 exited with code 0
+2016/06/18 16:33:15 [notice] 24534: exit
+2016/06/18 16:33:18 [notice] 24552: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:33:18 [notice] 24552: using the "random" user's behaver method
+2016/06/18 16:33:18 [notice] 24552: ntrig/1.0
+2016/06/18 16:33:18 [notice] 24552: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:33:18 [notice] 24552: OS: Linux 3.13.0-55-generic
+2016/06/18 16:33:18 [notice] 24552: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:33:18 [notice] 24552: start virtual processes
+2016/06/18 16:33:18 [notice] 24552: start virtual processes 24554
+2016/06/18 16:33:18 [notice] 24552: start traffic processes
+2016/06/18 16:33:18 [notice] 24552: start traffic process 24555
+2016/06/18 16:33:27 [notice] 24552: signal 17 (SIGCHLD) received
+2016/06/18 16:33:27 [alert] 24552: virtual processes 24554 exited on signal 11 (core dumped)
+2016/06/18 16:33:27 [notice] 24552: start virtual processes 24563
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 16:33:27 [notice] 24552: signal 17 (SIGCHLD) received
+2016/06/18 16:33:27 [notice] 24552: virtual processes 24563 exited with code 2
+2016/06/18 16:33:27 [alert] 24552: virtual processes 24563 exited with fatal code 2 and cannot be respawned
+2016/06/18 16:33:29 [notice] 24555: signal 15 (SIG15) received, exiting
+2016/06/18 16:33:29 [notice] 24555: exiting
+2016/06/18 16:33:27 [notice] 24552: signal 15 (SIG15) received, exiting
+2016/06/18 16:33:29 [notice] 24555: exit
+2016/06/18 16:33:29 [notice] 24552: signal 17 (SIGCHLD) received
+2016/06/18 16:33:29 [notice] 24552: traffic process 24555 exited with code 0
+2016/06/18 16:33:29 [notice] 24552: exit
+2016/06/18 16:36:18 [notice] 24589: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:36:18 [notice] 24589: using the "random" user's behaver method
+2016/06/18 16:36:18 [notice] 24589: ntrig/1.0
+2016/06/18 16:36:18 [notice] 24589: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:36:18 [notice] 24589: OS: Linux 3.13.0-55-generic
+2016/06/18 16:36:18 [notice] 24589: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:36:18 [notice] 24589: start virtual processes
+2016/06/18 16:36:18 [notice] 24589: start virtual processes 24594
+2016/06/18 16:36:18 [notice] 24589: start traffic processes
+2016/06/18 16:36:18 [notice] 24589: start traffic process 24595
+2016/06/18 16:36:23 [notice] 24589: signal 17 (SIGCHLD) received
+2016/06/18 16:36:23 [alert] 24589: virtual processes 24594 exited on signal 11 (core dumped)
+2016/06/18 16:36:23 [notice] 24589: start virtual processes 24600
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 16:36:23 [notice] 24589: signal 17 (SIGCHLD) received
+2016/06/18 16:36:23 [notice] 24589: virtual processes 24600 exited with code 2
+2016/06/18 16:36:23 [alert] 24589: virtual processes 24600 exited with fatal code 2 and cannot be respawned
+2016/06/18 16:36:34 [notice] 24595: signal 15 (SIG15) received, exiting
+2016/06/18 16:36:34 [notice] 24595: exiting
+2016/06/18 16:36:34 [notice] 24595: exit
+2016/06/18 16:36:30 [notice] 24589: signal 15 (SIG15) received, exiting
+2016/06/18 16:36:30 [notice] 24589: signal 17 (SIGCHLD) received
+2016/06/18 16:36:30 [notice] 24589: traffic process 24595 exited with code 0
+2016/06/18 16:36:30 [notice] 24589: exit
+2016/06/18 16:36:44 [notice] 24612: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:36:44 [notice] 24612: using the "random" user's behaver method
+2016/06/18 16:36:44 [notice] 24612: ntrig/1.0
+2016/06/18 16:36:44 [notice] 24612: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:36:44 [notice] 24612: OS: Linux 3.13.0-55-generic
+2016/06/18 16:36:44 [notice] 24612: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:36:44 [notice] 24612: start virtual processes
+2016/06/18 16:36:44 [notice] 24612: start virtual processes 24617
+2016/06/18 16:36:44 [notice] 24612: start traffic processes
+2016/06/18 16:36:44 [notice] 24612: start traffic process 24618
+2016/06/18 16:36:54 [notice] 24612: signal 17 (SIGCHLD) received
+2016/06/18 16:36:54 [alert] 24612: virtual processes 24617 exited on signal 11 (core dumped)
+2016/06/18 16:36:54 [notice] 24612: start virtual processes 24623
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 16:36:54 [notice] 24612: signal 17 (SIGCHLD) received
+2016/06/18 16:36:54 [notice] 24612: virtual processes 24623 exited with code 2
+2016/06/18 16:36:54 [alert] 24612: virtual processes 24623 exited with fatal code 2 and cannot be respawned
+2016/06/18 16:36:54 [notice] 24612: signal 15 (SIG15) received, exiting
+2016/06/18 16:37:03 [notice] 24618: signal 15 (SIG15) received, exiting
+2016/06/18 16:37:03 [notice] 24618: exiting
+2016/06/18 16:37:03 [notice] 24618: exit
+2016/06/18 16:37:03 [notice] 24612: signal 17 (SIGCHLD) received
+2016/06/18 16:37:03 [notice] 24612: traffic process 24618 exited with code 0
+2016/06/18 16:37:03 [notice] 24612: exit
+2016/06/18 16:38:33 [notice] 24797: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:38:33 [notice] 24797: using the "random" user's behaver method
+2016/06/18 16:38:33 [notice] 24797: ntrig/1.0
+2016/06/18 16:38:33 [notice] 24797: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:38:33 [notice] 24797: OS: Linux 3.13.0-55-generic
+2016/06/18 16:38:33 [notice] 24797: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:38:33 [notice] 24797: start virtual processes
+2016/06/18 16:38:33 [notice] 24797: start virtual processes 24802
+2016/06/18 16:38:33 [notice] 24797: start traffic processes
+2016/06/18 16:38:33 [notice] 24797: start traffic process 24803
+2016/06/18 16:38:36 [notice] 24797: signal 17 (SIGCHLD) received
+2016/06/18 16:38:36 [alert] 24797: virtual processes 24802 exited on signal 11 (core dumped)
+2016/06/18 16:38:36 [notice] 24797: start virtual processes 24808
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 16:38:36 [notice] 24797: signal 17 (SIGCHLD) received
+2016/06/18 16:38:36 [notice] 24797: virtual processes 24808 exited with code 2
+2016/06/18 16:38:36 [alert] 24797: virtual processes 24808 exited with fatal code 2 and cannot be respawned
+2016/06/18 16:38:43 [notice] 24803: signal 15 (SIG15) received, exiting
+2016/06/18 16:38:43 [notice] 24803: exiting
+2016/06/18 16:38:40 [notice] 24797: signal 15 (SIG15) received, exiting
+2016/06/18 16:38:43 [notice] 24803: exit
+2016/06/18 16:38:44 [notice] 24797: signal 17 (SIGCHLD) received
+2016/06/18 16:38:44 [notice] 24797: traffic process 24803 exited with code 0
+2016/06/18 16:38:44 [notice] 24797: exit
+2016/06/18 16:47:15 [notice] 24923: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:47:15 [notice] 24923: using the "random" user's behaver method
+2016/06/18 16:47:15 [notice] 24923: ntrig/1.0
+2016/06/18 16:47:15 [notice] 24923: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:47:15 [notice] 24923: OS: Linux 3.13.0-55-generic
+2016/06/18 16:47:15 [notice] 24923: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:47:15 [notice] 24923: start virtual processes
+2016/06/18 16:47:15 [notice] 24923: start virtual processes 24924
+2016/06/18 16:47:15 [notice] 24923: start traffic processes
+2016/06/18 16:47:15 [notice] 24923: start traffic process 24925
+2016/06/18 16:47:56 [notice] 24923: signal 15 (SIG15) received, exiting
+2016/06/18 16:48:18 [notice] 24924: exiting
+2016/06/18 16:48:18 [notice] 24924: exit
+2016/06/18 16:48:18 [notice] 24925: exiting
+2016/06/18 16:48:19 [notice] 24923: signal 17 (SIGCHLD) received
+2016/06/18 16:48:19 [notice] 24923: virtual processes 24924 exited with code 0
+2016/06/18 16:48:18 [notice] 24925: exit
+2016/06/18 16:48:19 [notice] 24923: signal 17 (SIGCHLD) received
+2016/06/18 16:48:19 [notice] 24923: traffic process 24925 exited with code 0
+2016/06/18 16:48:19 [notice] 24923: exit
+2016/06/18 16:52:15 [notice] 24983: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:52:15 [notice] 24983: using the "random" user's behaver method
+2016/06/18 16:52:15 [notice] 24983: ntrig/1.0
+2016/06/18 16:52:15 [notice] 24983: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:52:15 [notice] 24983: OS: Linux 3.13.0-55-generic
+2016/06/18 16:52:15 [notice] 24983: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:52:15 [notice] 24983: start virtual processes
+2016/06/18 16:52:15 [notice] 24983: start virtual processes 24988
+2016/06/18 16:52:15 [notice] 24983: start traffic processes
+2016/06/18 16:52:15 [notice] 24983: start traffic process 24989
+2016/06/18 16:52:52 [notice] 24983: signal 15 (SIG15) received, exiting
+2016/06/18 16:53:04 [notice] 24988: exiting
+2016/06/18 16:53:04 [notice] 24988: exit
+2016/06/18 16:53:04 [notice] 24983: signal 17 (SIGCHLD) received
+2016/06/18 16:53:04 [notice] 24983: virtual processes 24988 exited with code 0
+2016/06/18 16:53:04 [notice] 24989: exiting
+2016/06/18 16:53:04 [notice] 24989: exit
+2016/06/18 16:53:04 [notice] 24983: signal 17 (SIGCHLD) received
+2016/06/18 16:53:04 [notice] 24983: traffic process 24989 exited with code 0
+2016/06/18 16:53:04 [notice] 24983: exit
+2016/06/18 16:54:48 [notice] 25040: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 16:54:48 [notice] 25040: using the "random" user's behaver method
+2016/06/18 16:54:48 [notice] 25040: ntrig/1.0
+2016/06/18 16:54:48 [notice] 25040: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 16:54:48 [notice] 25040: OS: Linux 3.13.0-55-generic
+2016/06/18 16:54:48 [notice] 25040: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 16:54:48 [notice] 25040: start virtual processes
+2016/06/18 16:54:48 [notice] 25040: start virtual processes 25044
+2016/06/18 16:54:48 [notice] 25040: start traffic processes
+2016/06/18 16:54:48 [notice] 25040: start traffic process 25045
+2016/06/18 16:55:11 [notice] 25045: signal 15 (SIG15) received, exiting
+2016/06/18 16:55:11 [notice] 25045: exiting
+2016/06/18 16:55:11 [notice] 25045: exit
+2016/06/18 16:54:57 [notice] 25040: signal 15 (SIG15) received, exiting
+2016/06/18 16:55:09 [notice] 25044: signal 15 (SIG15) received, exiting
+2016/06/18 16:55:09 [notice] 25044: exiting
+2016/06/18 16:55:09 [notice] 25044: exit
+2016/06/18 16:55:12 [notice] 25040: signal 17 (SIGCHLD) received
+2016/06/18 16:55:12 [notice] 25040: virtual processes 25044 exited with code 0
+2016/06/18 16:55:12 [notice] 25040: signal 17 (SIGCHLD) received
+2016/06/18 16:55:12 [notice] 25040: traffic process 25045 exited with code 0
+2016/06/18 16:55:12 [notice] 25040: exit
+2016/06/18 17:07:34 [notice] 25310: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:07:34 [notice] 25310: using the "random" user's behaver method
+2016/06/18 17:07:34 [notice] 25310: ntrig/1.0
+2016/06/18 17:07:34 [notice] 25310: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:07:34 [notice] 25310: OS: Linux 3.13.0-55-generic
+2016/06/18 17:07:34 [notice] 25310: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:07:34 [notice] 25310: start virtual processes
+2016/06/18 17:07:34 [notice] 25310: start virtual processes 25315
+2016/06/18 17:07:34 [notice] 25310: start traffic processes
+2016/06/18 17:07:34 [notice] 25310: start traffic process 25316
+2016/06/18 17:07:43 [notice] 25310: signal 15 (SIG15) received, exiting
+2016/06/18 17:08:29 [notice] 25316: signal 15 (SIG15) received, exiting
+2016/06/18 17:08:29 [notice] 25316: exiting
+2016/06/18 17:08:25 [notice] 25315: signal 15 (SIG15) received, exiting
+2016/06/18 17:08:25 [notice] 25315: exiting
+2016/06/18 17:08:25 [notice] 25315: exit
+2016/06/18 17:08:29 [notice] 25316: exit
+2016/06/18 17:08:29 [notice] 25310: signal 17 (SIGCHLD) received
+2016/06/18 17:08:29 [notice] 25310: virtual processes 25315 exited with code 0
+2016/06/18 17:08:29 [notice] 25310: signal 17 (SIGCHLD) received
+2016/06/18 17:08:29 [notice] 25310: traffic process 25316 exited with code 0
+2016/06/18 17:08:29 [notice] 25310: exit
+2016/06/18 17:17:32 [notice] 25475: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:17:32 [notice] 25475: using the "random" user's behaver method
+2016/06/18 17:17:32 [notice] 25475: ntrig/1.0
+2016/06/18 17:17:32 [notice] 25475: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:17:32 [notice] 25475: OS: Linux 3.13.0-55-generic
+2016/06/18 17:17:32 [notice] 25475: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:17:32 [notice] 25475: start virtual processes
+2016/06/18 17:17:32 [notice] 25475: start virtual processes 25476
+2016/06/18 17:17:32 [notice] 25475: start traffic processes
+2016/06/18 17:17:32 [notice] 25475: start traffic process 25477
+2016/06/18 17:18:23 [notice] 25476: signal 15 (SIG15) received, exiting
+2016/06/18 17:18:23 [notice] 25476: exiting
+2016/06/18 17:18:23 [notice] 25476: exit
+2016/06/18 17:18:23 [notice] 25477: signal 15 (SIG15) received, exiting
+2016/06/18 17:18:23 [notice] 25477: exiting
+2016/06/18 17:18:23 [notice] 25477: exit
+2016/06/18 17:17:47 [notice] 25475: signal 15 (SIG15) received, exiting
+2016/06/18 17:17:47 [notice] 25475: signal 17 (SIGCHLD) received
+2016/06/18 17:17:47 [notice] 25475: virtual processes 25476 exited with code 0
+2016/06/18 17:17:47 [notice] 25475: traffic process 25477 exited with code 0
+2016/06/18 17:17:47 [notice] 25475: exit
+2016/06/18 17:20:04 [notice] 25530: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:20:04 [notice] 25530: using the "random" user's behaver method
+2016/06/18 17:20:04 [notice] 25530: ntrig/1.0
+2016/06/18 17:20:04 [notice] 25530: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:20:04 [notice] 25530: OS: Linux 3.13.0-55-generic
+2016/06/18 17:20:04 [notice] 25530: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:20:04 [notice] 25530: start virtual processes
+2016/06/18 17:20:04 [notice] 25530: start virtual processes 25533
+2016/06/18 17:20:04 [notice] 25530: start traffic processes
+2016/06/18 17:20:04 [notice] 25530: start traffic process 25534
+2016/06/18 17:20:28 [notice] 25534: signal 15 (SIG15) received, exiting
+2016/06/18 17:20:28 [notice] 25534: exiting
+2016/06/18 17:20:28 [notice] 25533: signal 15 (SIG15) received, exiting
+2016/06/18 17:20:28 [notice] 25533: exiting
+2016/06/18 17:20:28 [notice] 25533: exit
+2016/06/18 17:20:28 [notice] 25534: exit
+2016/06/18 17:20:09 [notice] 25530: signal 15 (SIG15) received, exiting
+2016/06/18 17:20:09 [notice] 25530: signal 17 (SIGCHLD) received
+2016/06/18 17:20:09 [notice] 25530: virtual processes 25533 exited with code 0
+2016/06/18 17:20:09 [notice] 25530: traffic process 25534 exited with code 0
+2016/06/18 17:20:09 [notice] 25530: exit
+2016/06/18 17:21:16 [notice] 25577: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:21:16 [notice] 25577: using the "random" user's behaver method
+2016/06/18 17:21:16 [notice] 25577: ntrig/1.0
+2016/06/18 17:21:16 [notice] 25577: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:21:16 [notice] 25577: OS: Linux 3.13.0-55-generic
+2016/06/18 17:21:16 [notice] 25577: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:21:16 [notice] 25577: start virtual processes
+2016/06/18 17:21:16 [notice] 25577: start virtual processes 25581
+2016/06/18 17:21:16 [notice] 25577: start traffic processes
+2016/06/18 17:21:16 [notice] 25577: start traffic process 25582
+2016/06/18 17:21:44 [notice] 25582: signal 15 (SIG15) received, exiting
+2016/06/18 17:21:25 [notice] 25577: signal 15 (SIG15) received, exiting
+2016/06/18 17:21:44 [notice] 25582: exiting
+2016/06/18 17:21:43 [notice] 25581: signal 15 (SIG15) received, exiting
+2016/06/18 17:21:43 [notice] 25581: exiting
+2016/06/18 17:21:43 [notice] 25581: exit
+2016/06/18 17:21:44 [notice] 25582: exit
+2016/06/18 17:21:45 [notice] 25577: signal 17 (SIGCHLD) received
+2016/06/18 17:21:45 [notice] 25577: virtual processes 25581 exited with code 0
+2016/06/18 17:21:45 [notice] 25577: signal 17 (SIGCHLD) received
+2016/06/18 17:21:45 [notice] 25577: traffic process 25582 exited with code 0
+2016/06/18 17:21:45 [notice] 25577: exit
+2016/06/18 17:45:28 [notice] 25894: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:45:28 [notice] 25894: using the "random" user's behaver method
+2016/06/18 17:45:28 [notice] 25894: ntrig/1.0
+2016/06/18 17:45:28 [notice] 25894: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:45:28 [notice] 25894: OS: Linux 3.13.0-55-generic
+2016/06/18 17:45:28 [notice] 25894: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:45:28 [notice] 25894: start virtual processes
+2016/06/18 17:45:28 [notice] 25894: start virtual processes 25899
+2016/06/18 17:45:28 [notice] 25894: start traffic processes
+2016/06/18 17:45:28 [notice] 25894: start traffic process 25900
+2016/06/18 17:45:34 [notice] 25894: signal 17 (SIGCHLD) received
+2016/06/18 17:45:34 [alert] 25894: virtual processes 25899 exited on signal 11 (core dumped)
+2016/06/18 17:45:34 [notice] 25894: start virtual processes 25905
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 17:45:34 [notice] 25894: signal 17 (SIGCHLD) received
+2016/06/18 17:45:34 [notice] 25894: virtual processes 25905 exited with code 2
+2016/06/18 17:45:34 [alert] 25894: virtual processes 25905 exited with fatal code 2 and cannot be respawned
+2016/06/18 17:45:36 [notice] 25900: signal 15 (SIG15) received, exiting
+2016/06/18 17:45:36 [notice] 25900: exiting
+2016/06/18 17:45:36 [notice] 25900: exit
+2016/06/18 17:45:34 [notice] 25894: signal 15 (SIG15) received, exiting
+2016/06/18 17:45:34 [notice] 25894: signal 17 (SIGCHLD) received
+2016/06/18 17:45:34 [notice] 25894: traffic process 25900 exited with code 0
+2016/06/18 17:45:34 [notice] 25894: exit
+2016/06/18 17:45:39 [notice] 25915: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:45:39 [notice] 25915: using the "random" user's behaver method
+2016/06/18 17:45:39 [notice] 25915: ntrig/1.0
+2016/06/18 17:45:39 [notice] 25915: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:45:39 [notice] 25915: OS: Linux 3.13.0-55-generic
+2016/06/18 17:45:39 [notice] 25915: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:45:39 [notice] 25915: start virtual processes
+2016/06/18 17:45:39 [notice] 25915: start virtual processes 25919
+2016/06/18 17:45:39 [notice] 25915: start traffic processes
+2016/06/18 17:45:39 [notice] 25915: start traffic process 25920
+2016/06/18 17:45:43 [notice] 25915: signal 17 (SIGCHLD) received
+2016/06/18 17:45:43 [alert] 25915: virtual processes 25919 exited on signal 11 (core dumped)
+2016/06/18 17:45:43 [notice] 25915: start virtual processes 25927
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 17:45:44 [notice] 25915: signal 17 (SIGCHLD) received
+2016/06/18 17:45:44 [notice] 25915: virtual processes 25927 exited with code 2
+2016/06/18 17:45:44 [alert] 25915: virtual processes 25927 exited with fatal code 2 and cannot be respawned
+2016/06/18 17:45:44 [notice] 25915: signal 15 (SIG15) received, exiting
+2016/06/18 17:45:47 [notice] 25920: signal 15 (SIG15) received, exiting
+2016/06/18 17:45:47 [notice] 25920: exiting
+2016/06/18 17:45:47 [notice] 25920: exit
+2016/06/18 17:45:47 [notice] 25915: signal 17 (SIGCHLD) received
+2016/06/18 17:45:47 [notice] 25915: traffic process 25920 exited with code 0
+2016/06/18 17:45:47 [notice] 25915: exit
+2016/06/18 17:46:20 [notice] 25937: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:46:20 [notice] 25937: using the "random" user's behaver method
+2016/06/18 17:46:20 [notice] 25937: ntrig/1.0
+2016/06/18 17:46:20 [notice] 25937: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:46:20 [notice] 25937: OS: Linux 3.13.0-55-generic
+2016/06/18 17:46:20 [notice] 25937: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:46:20 [notice] 25937: start virtual processes
+2016/06/18 17:46:20 [notice] 25937: start virtual processes 25942
+2016/06/18 17:46:20 [notice] 25937: start traffic processes
+2016/06/18 17:46:20 [notice] 25937: start traffic process 25943
+2016/06/18 17:46:25 [notice] 25937: signal 17 (SIGCHLD) received
+2016/06/18 17:46:25 [alert] 25937: virtual processes 25942 exited on signal 11 (core dumped)
+2016/06/18 17:46:25 [notice] 25937: start virtual processes 25948
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 17:46:25 [notice] 25937: signal 17 (SIGCHLD) received
+2016/06/18 17:46:25 [notice] 25937: virtual processes 25948 exited with code 2
+2016/06/18 17:46:25 [alert] 25937: virtual processes 25948 exited with fatal code 2 and cannot be respawned
+2016/06/18 17:46:25 [notice] 25937: signal 15 (SIG15) received, exiting
+2016/06/18 17:46:28 [notice] 25943: signal 15 (SIG15) received, exiting
+2016/06/18 17:46:28 [notice] 25943: exiting
+2016/06/18 17:46:28 [notice] 25943: exit
+2016/06/18 17:46:28 [notice] 25937: signal 17 (SIGCHLD) received
+2016/06/18 17:46:28 [notice] 25937: traffic process 25943 exited with code 0
+2016/06/18 17:46:28 [notice] 25937: exit
+2016/06/18 17:50:50 [notice] 26011: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:50:50 [notice] 26011: using the "random" user's behaver method
+2016/06/18 17:50:50 [notice] 26011: ntrig/1.0
+2016/06/18 17:50:50 [notice] 26011: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:50:50 [notice] 26011: OS: Linux 3.13.0-55-generic
+2016/06/18 17:50:50 [notice] 26011: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:50:50 [notice] 26011: start virtual processes
+2016/06/18 17:50:50 [notice] 26011: start virtual processes 26016
+2016/06/18 17:50:50 [notice] 26011: start traffic processes
+2016/06/18 17:50:50 [notice] 26011: start traffic process 26017
+2016/06/18 17:51:08 [notice] 26011: signal 17 (SIGCHLD) received
+2016/06/18 17:51:08 [alert] 26011: virtual processes 26016 exited on signal 11 (core dumped)
+2016/06/18 17:51:08 [notice] 26011: start virtual processes 26024
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 17:51:08 [notice] 26011: signal 17 (SIGCHLD) received
+2016/06/18 17:51:08 [notice] 26011: virtual processes 26024 exited with code 2
+2016/06/18 17:51:08 [alert] 26011: virtual processes 26024 exited with fatal code 2 and cannot be respawned
+2016/06/18 17:51:08 [notice] 26011: signal 15 (SIG15) received, exiting
+2016/06/18 17:51:13 [notice] 26017: signal 15 (SIG15) received, exiting
+2016/06/18 17:51:13 [notice] 26017: exiting
+2016/06/18 17:51:13 [notice] 26017: exit
+2016/06/18 17:51:13 [notice] 26011: signal 17 (SIGCHLD) received
+2016/06/18 17:51:13 [notice] 26011: traffic process 26017 exited with code 0
+2016/06/18 17:51:13 [notice] 26011: exit
+2016/06/18 17:53:24 [notice] 26084: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:53:24 [notice] 26084: using the "random" user's behaver method
+2016/06/18 17:53:24 [notice] 26084: ntrig/1.0
+2016/06/18 17:53:24 [notice] 26084: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:53:24 [notice] 26084: OS: Linux 3.13.0-55-generic
+2016/06/18 17:53:24 [notice] 26084: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:53:24 [notice] 26084: start virtual processes
+2016/06/18 17:53:24 [notice] 26084: start virtual processes 26089
+2016/06/18 17:53:24 [notice] 26084: start traffic processes
+2016/06/18 17:53:24 [notice] 26084: start traffic process 26090
+2016/06/18 17:53:31 [notice] 26084: signal 17 (SIGCHLD) received
+2016/06/18 17:53:31 [alert] 26084: virtual processes 26089 exited on signal 11 (core dumped)
+2016/06/18 17:53:31 [notice] 26084: start virtual processes 26095
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 17:53:31 [notice] 26084: signal 17 (SIGCHLD) received
+2016/06/18 17:53:31 [notice] 26084: virtual processes 26095 exited with code 2
+2016/06/18 17:53:31 [alert] 26084: virtual processes 26095 exited with fatal code 2 and cannot be respawned
+2016/06/18 17:53:33 [notice] 26090: signal 15 (SIG15) received, exiting
+2016/06/18 17:53:33 [notice] 26090: exiting
+2016/06/18 17:53:33 [notice] 26090: exit
+2016/06/18 17:53:31 [notice] 26084: signal 15 (SIG15) received, exiting
+2016/06/18 17:53:34 [notice] 26084: signal 17 (SIGCHLD) received
+2016/06/18 17:53:34 [notice] 26084: traffic process 26090 exited with code 0
+2016/06/18 17:53:34 [notice] 26084: exit
+2016/06/18 17:54:51 [notice] 26154: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:54:51 [notice] 26154: using the "random" user's behaver method
+2016/06/18 17:54:51 [notice] 26154: ntrig/1.0
+2016/06/18 17:54:51 [notice] 26154: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:54:51 [notice] 26154: OS: Linux 3.13.0-55-generic
+2016/06/18 17:54:51 [notice] 26154: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:54:51 [notice] 26154: start virtual processes
+2016/06/18 17:54:51 [notice] 26154: start virtual processes 26157
+2016/06/18 17:54:51 [notice] 26154: start traffic processes
+2016/06/18 17:54:51 [notice] 26154: start traffic process 26158
+2016/06/18 17:54:57 [notice] 26154: signal 17 (SIGCHLD) received
+2016/06/18 17:54:57 [alert] 26154: virtual processes 26157 exited on signal 11 (core dumped)
+2016/06/18 17:54:57 [notice] 26154: start virtual processes 26166
+[warn] Epoll ADD(1) on fd 3 failed.  Old events were 0; read change was 1 (add); write change was 0 (none): Invalid argument
+2016/06/18 17:54:58 [notice] 26154: signal 17 (SIGCHLD) received
+2016/06/18 17:54:58 [notice] 26154: virtual processes 26166 exited with code 2
+2016/06/18 17:54:58 [alert] 26154: virtual processes 26166 exited with fatal code 2 and cannot be respawned
+2016/06/18 17:55:12 [notice] 26158: signal 15 (SIG15) received, exiting
+2016/06/18 17:55:12 [notice] 26158: exiting
+2016/06/18 17:55:12 [notice] 26158: exit
+2016/06/18 17:54:58 [notice] 26154: signal 15 (SIG15) received, exiting
+2016/06/18 17:54:58 [notice] 26154: signal 17 (SIGCHLD) received
+2016/06/18 17:54:58 [notice] 26154: traffic process 26158 exited with code 0
+2016/06/18 17:54:58 [notice] 26154: exit
+2016/06/18 17:56:18 [notice] 26189: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:56:18 [notice] 26189: using the "random" user's behaver method
+2016/06/18 17:56:18 [notice] 26189: ntrig/1.0
+2016/06/18 17:56:18 [notice] 26189: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:56:18 [notice] 26189: OS: Linux 3.13.0-55-generic
+2016/06/18 17:56:18 [notice] 26189: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:56:18 [notice] 26189: start virtual processes
+2016/06/18 17:56:18 [notice] 26189: start virtual processes 26191
+2016/06/18 17:56:18 [notice] 26189: start traffic processes
+2016/06/18 17:56:18 [notice] 26189: start traffic process 26192
+2016/06/18 17:57:07 [notice] 26192: signal 15 (SIG15) received, exiting
+2016/06/18 17:57:05 [notice] 26191: signal 15 (SIG15) received, exiting
+2016/06/18 17:57:07 [notice] 26192: exiting
+2016/06/18 17:57:05 [notice] 26191: exiting
+2016/06/18 17:57:05 [notice] 26191: exit
+2016/06/18 17:57:07 [notice] 26192: exit
+2016/06/18 17:56:21 [notice] 26189: signal 15 (SIG15) received, exiting
+2016/06/18 17:56:21 [notice] 26189: signal 17 (SIGCHLD) received
+2016/06/18 17:56:21 [notice] 26189: virtual processes 26191 exited with code 0
+2016/06/18 17:57:07 [notice] 26189: signal 17 (SIGCHLD) received
+2016/06/18 17:57:07 [notice] 26189: traffic process 26192 exited with code 0
+2016/06/18 17:57:07 [notice] 26189: exit
+2016/06/18 17:57:12 [notice] 26235: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 17:57:12 [notice] 26235: using the "random" user's behaver method
+2016/06/18 17:57:12 [notice] 26235: ntrig/1.0
+2016/06/18 17:57:12 [notice] 26235: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 17:57:12 [notice] 26235: OS: Linux 3.13.0-55-generic
+2016/06/18 17:57:12 [notice] 26235: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 17:57:12 [notice] 26235: start virtual processes
+2016/06/18 17:57:12 [notice] 26235: start virtual processes 26240
+2016/06/18 17:57:12 [notice] 26235: start traffic processes
+2016/06/18 17:57:12 [notice] 26235: start traffic process 26241
+2016/06/18 17:58:54 [notice] 26241: signal 15 (SIG15) received, exiting
+2016/06/18 17:58:54 [notice] 26241: exiting
+2016/06/18 17:58:54 [notice] 26241: exit
+2016/06/18 17:58:33 [notice] 26240: signal 15 (SIG15) received, exiting
+2016/06/18 17:58:33 [notice] 26240: exiting
+2016/06/18 17:58:33 [notice] 26240: exit
+2016/06/18 17:58:33 [notice] 26235: signal 15 (SIG15) received, exiting
+2016/06/18 17:58:33 [notice] 26235: signal 17 (SIGCHLD) received
+2016/06/18 17:58:33 [notice] 26235: virtual processes 26240 exited with code 0
+2016/06/18 17:58:33 [notice] 26235: traffic process 26241 exited with code 0
+2016/06/18 17:58:33 [notice] 26235: exit
+2016/06/18 18:01:06 [notice] 26289: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 18:01:06 [notice] 26289: using the "random" user's behaver method
+2016/06/18 18:01:06 [notice] 26289: ntrig/1.0
+2016/06/18 18:01:06 [notice] 26289: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 18:01:06 [notice] 26289: OS: Linux 3.13.0-55-generic
+2016/06/18 18:01:06 [notice] 26289: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 18:01:06 [notice] 26289: start virtual processes
+2016/06/18 18:01:06 [notice] 26289: start virtual processes 26294
+2016/06/18 18:01:06 [notice] 26289: start traffic processes
+2016/06/18 18:01:06 [notice] 26289: start traffic process 26295
+2016/06/18 18:02:22 [notice] 26289: signal 15 (SIG15) received, exiting
+2016/06/18 18:03:07 [notice] 26295: signal 15 (SIG15) received, exiting
+2016/06/18 18:03:07 [notice] 26295: exiting
+2016/06/18 18:03:07 [notice] 26295: exit
+2016/06/18 18:02:22 [notice] 26294: signal 15 (SIG15) received, exiting
+2016/06/18 18:02:22 [notice] 26294: exiting
+2016/06/18 18:02:22 [notice] 26294: exit
+2016/06/18 18:03:08 [notice] 26289: signal 17 (SIGCHLD) received
+2016/06/18 18:03:08 [notice] 26289: traffic process 26295 exited with code 0
+2016/06/18 18:03:08 [notice] 26289: signal 17 (SIGCHLD) received
+2016/06/18 18:03:08 [notice] 26289: virtual processes 26294 exited with code 0
+2016/06/18 18:03:08 [notice] 26289: exit
+2016/06/18 19:13:22 [notice] 26893: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 19:13:22 [notice] 26893: using the "random" user's behaver method
+2016/06/18 19:13:22 [notice] 26893: ntrig/1.0
+2016/06/18 19:13:22 [notice] 26893: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 19:13:22 [notice] 26893: OS: Linux 3.13.0-55-generic
+2016/06/18 19:13:22 [notice] 26893: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 19:13:22 [notice] 26893: start virtual processes
+2016/06/18 19:13:22 [notice] 26893: start virtual processes 26894
+2016/06/18 19:13:22 [notice] 26893: start traffic processes
+2016/06/18 19:13:22 [notice] 26893: start traffic process 26895
+2016/06/18 19:14:21 [notice] 26894: signal 15 (SIG15) received, exiting
+2016/06/18 19:14:21 [notice] 26894: exiting
+2016/06/18 19:14:21 [notice] 26894: exit
+2016/06/18 19:13:27 [notice] 26893: signal 15 (SIG15) received, exiting
+2016/06/18 19:14:20 [notice] 26895: signal 15 (SIG15) received, exiting
+2016/06/18 19:14:20 [notice] 26895: exiting
+2016/06/18 19:14:20 [notice] 26895: exit
+2016/06/18 19:14:21 [notice] 26893: signal 17 (SIGCHLD) received
+2016/06/18 19:14:21 [notice] 26893: virtual processes 26894 exited with code 0
+2016/06/18 19:14:21 [notice] 26893: traffic process 26895 exited with code 0
+2016/06/18 19:14:21 [notice] 26893: exit
+2016/06/18 19:15:59 [notice] 26969: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 19:15:59 [notice] 26969: using the "random" user's behaver method
+2016/06/18 19:15:59 [notice] 26969: ntrig/1.0
+2016/06/18 19:15:59 [notice] 26969: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 19:15:59 [notice] 26969: OS: Linux 3.13.0-55-generic
+2016/06/18 19:15:59 [notice] 26969: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 19:15:59 [notice] 26969: start virtual processes
+2016/06/18 19:15:59 [notice] 26969: start virtual processes 26972
+2016/06/18 19:15:59 [notice] 26969: start traffic processes
+2016/06/18 19:15:59 [notice] 26969: start traffic process 26973
+2016/06/18 19:17:13 [notice] 26973: signal 15 (SIG15) received, exiting
+2016/06/18 19:17:13 [notice] 26973: exiting
+2016/06/18 19:17:14 [notice] 26972: signal 15 (SIG15) received, exiting
+2016/06/18 19:17:14 [notice] 26972: exiting
+2016/06/18 19:17:14 [notice] 26972: exit
+2016/06/18 19:16:03 [notice] 26969: signal 15 (SIG15) received, exiting
+2016/06/18 19:17:14 [notice] 26969: signal 17 (SIGCHLD) received
+2016/06/18 19:17:14 [notice] 26969: virtual processes 26972 exited with code 0
+2016/06/18 19:17:13 [notice] 26973: exit
+2016/06/18 19:17:14 [notice] 26969: signal 17 (SIGCHLD) received
+2016/06/18 19:17:14 [notice] 26969: traffic process 26973 exited with code 0
+2016/06/18 19:17:14 [notice] 26969: exit
+2016/06/18 19:19:30 [notice] 27079: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 19:19:30 [notice] 27079: using the "random" user's behaver method
+2016/06/18 19:19:30 [notice] 27079: ntrig/1.0
+2016/06/18 19:19:30 [notice] 27079: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 19:19:30 [notice] 27079: OS: Linux 3.13.0-55-generic
+2016/06/18 19:19:30 [notice] 27079: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 19:19:30 [notice] 27079: start virtual processes
+2016/06/18 19:19:30 [notice] 27079: start virtual processes 27084
+2016/06/18 19:19:30 [notice] 27079: start traffic processes
+2016/06/18 19:19:30 [notice] 27079: start traffic process 27085
+2016/06/18 19:24:48 [notice] 27085: signal 15 (SIG15) received, exiting
+2016/06/18 19:24:48 [notice] 27085: exiting
+2016/06/18 19:24:48 [notice] 27085: exit
+2016/06/18 19:19:34 [notice] 27079: signal 15 (SIG15) received, exiting
+2016/06/18 19:24:49 [notice] 27084: signal 15 (SIG15) received, exiting
+2016/06/18 19:24:49 [notice] 27084: exiting
+2016/06/18 19:24:49 [notice] 27084: exit
+2016/06/18 19:24:49 [notice] 27079: signal 17 (SIGCHLD) received
+2016/06/18 19:24:49 [notice] 27079: traffic process 27085 exited with code 0
+2016/06/18 19:24:49 [notice] 27079: signal 17 (SIGCHLD) received
+2016/06/18 19:24:49 [notice] 27079: virtual processes 27084 exited with code 0
+2016/06/18 19:24:49 [notice] 27079: exit
+2016/06/18 19:24:52 [notice] 27181: level "notice" in /home/tzh/nworkspace/ntrig/conf/ntrig.conf:10
+2016/06/18 19:24:52 [notice] 27181: using the "random" user's behaver method
+2016/06/18 19:24:52 [notice] 27181: ntrig/1.0
+2016/06/18 19:24:52 [notice] 27181: built by gcc 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04) 
+2016/06/18 19:24:52 [notice] 27181: OS: Linux 3.13.0-55-generic
+2016/06/18 19:24:52 [notice] 27181: getrlimit(RLIMIT_NOFILE): 65535:65535
+2016/06/18 19:24:52 [notice] 27181: start virtual processes
+2016/06/18 19:24:52 [notice] 27181: start virtual processes 27186
+2016/06/18 19:24:52 [notice] 27181: start traffic processes
+2016/06/18 19:24:52 [notice] 27181: start traffic process 27187
+2016/06/18 19:26:57 [notice] 27186: signal 15 (SIG15) received, exiting
+2016/06/18 19:26:57 [notice] 27186: exiting
+2016/06/18 19:26:57 [notice] 27186: exit
+2016/06/18 19:26:57 [notice] 27181: signal 15 (SIG15) received, exiting
+2016/06/18 19:27:50 [notice] 27187: signal 15 (SIG15) received, exiting
+2016/06/18 19:27:50 [notice] 27187: exiting
+2016/06/18 19:27:50 [notice] 27187: exit
+2016/06/18 19:27:50 [notice] 27181: signal 17 (SIGCHLD) received
+2016/06/18 19:27:50 [notice] 27181: virtual processes 27186 exited with code 0
+2016/06/18 19:27:50 [notice] 27181: traffic process 27187 exited with code 0
+2016/06/18 19:27:50 [notice] 27181: exit
